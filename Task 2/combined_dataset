@@ -1,0 +1,1008 @@
+states,day,month,year,day_name,Estimated Employed,Estimated Unemployment Rate,Estimated Labour Participation Rate,Area,region,longitude,latitude
+Andhra Pradesh,31,May,2019,Friday,11999139,3.65,43.24,Rural,South,15.9129,79.74
+Andhra Pradesh,30,June,2019,Sunday,11755881,3.05,42.05,Rural,South,15.9129,79.74
+Andhra Pradesh,31,July,2019,Wednesday,12086707,3.75,43.5,Rural,South,15.9129,79.74
+Andhra Pradesh,31,August,2019,Saturday,12285693,3.32,43.97,Rural,South,15.9129,79.74
+Andhra Pradesh,30,September,2019,Monday,12256762,5.17,44.68,Rural,South,15.9129,79.74
+Andhra Pradesh,31,October,2019,Thursday,12017412,3.52,43.01,Rural,South,15.9129,79.74
+Andhra Pradesh,30,November,2019,Saturday,11397681,4.12,41.0,Rural,South,15.9129,79.74
+Andhra Pradesh,31,December,2019,Tuesday,12528395,4.38,45.14,Rural,South,15.9129,79.74
+Andhra Pradesh,31,January,2020,Friday,12016676,4.84,43.46,Rural,South,15.9129,79.74
+Andhra Pradesh,29,February,2020,Saturday,11723617,5.91,42.83,Rural,South,15.9129,79.74
+Andhra Pradesh,31,March,2020,Tuesday,11359660,4.06,40.66,Rural,South,15.9129,79.74
+Andhra Pradesh,30,April,2020,Thursday,8792827,16.29,36.03,Rural,South,15.9129,79.74
+Andhra Pradesh,31,May,2020,Sunday,9526902,14.46,38.16,Rural,South,15.9129,79.74
+Andhra Pradesh,30,June,2020,Tuesday,15572975,0.85,53.76,Rural,South,15.9129,79.74
+Assam,31,May,2019,Friday,11749334,4.29,57.39,Rural,Northeast,26.2006,92.9376
+Assam,30,June,2019,Sunday,8923222,5.08,43.87,Rural,Northeast,26.2006,92.9376
+Assam,31,July,2019,Wednesday,9911534,4.26,48.21,Rural,Northeast,26.2006,92.9376
+Assam,31,August,2019,Saturday,9292039,5.79,45.83,Rural,Northeast,26.2006,92.9376
+Assam,30,September,2019,Monday,11468349,4.46,55.67,Rural,Northeast,26.2006,92.9376
+Assam,31,October,2019,Thursday,8395906,4.65,40.76,Rural,Northeast,26.2006,92.9376
+Assam,30,November,2019,Saturday,9625362,4.66,46.64,Rural,Northeast,26.2006,92.9376
+Assam,31,January,2020,Friday,11420996,4.29,54.9,Rural,Northeast,26.2006,92.9376
+Assam,29,February,2020,Saturday,8462814,3.26,40.17,Rural,Northeast,26.2006,92.9376
+Assam,31,March,2020,Tuesday,9878742,3.77,47.05,Rural,Northeast,26.2006,92.9376
+Assam,31,May,2020,Sunday,9926176,9.38,50.0,Rural,Northeast,26.2006,92.9376
+Assam,30,June,2020,Tuesday,7544937,0.0,34.38,Rural,Northeast,26.2006,92.9376
+Bihar,31,May,2019,Friday,24322330,9.27,39.75,Rural,East,25.0961,85.3131
+Bihar,30,June,2019,Sunday,24097712,10.2,39.71,Rural,East,25.0961,85.3131
+Bihar,31,July,2019,Wednesday,23248875,13.44,39.66,Rural,East,25.0961,85.3131
+Bihar,31,August,2019,Saturday,22260203,11.0,36.85,Rural,East,25.0961,85.3131
+Bihar,30,September,2019,Monday,23905700,8.87,38.57,Rural,East,25.0961,85.3131
+Bihar,31,October,2019,Thursday,24053140,12.47,40.31,Rural,East,25.0961,85.3131
+Bihar,30,November,2019,Saturday,22445989,12.4,37.51,Rural,East,25.0961,85.3131
+Bihar,31,December,2019,Tuesday,22914530,10.16,37.25,Rural,East,25.0961,85.3131
+Bihar,31,January,2020,Friday,23409006,9.13,37.54,Rural,East,25.0961,85.3131
+Bihar,29,February,2020,Saturday,23168192,9.61,37.28,Rural,East,25.0961,85.3131
+Bihar,31,March,2020,Tuesday,22667882,15.39,38.88,Rural,East,25.0961,85.3131
+Bihar,30,April,2020,Thursday,14645275,45.09,38.63,Rural,East,25.0961,85.3131
+Bihar,31,May,2020,Sunday,14050319,47.26,38.5,Rural,East,25.0961,85.3131
+Bihar,30,June,2020,Tuesday,20622566,20.49,37.4,Rural,East,25.0961,85.3131
+Chhattisgarh,31,May,2019,Friday,6259019,9.82,42.89,Rural,West,21.2787,81.8661
+Chhattisgarh,30,June,2019,Sunday,6608626,6.76,43.71,Rural,West,21.2787,81.8661
+Chhattisgarh,31,July,2019,Wednesday,6753622,4.54,43.53,Rural,West,21.2787,81.8661
+Chhattisgarh,31,August,2019,Saturday,6607694,4.64,42.55,Rural,West,21.2787,81.8661
+Chhattisgarh,30,September,2019,Monday,6490776,8.33,43.38,Rural,West,21.2787,81.8661
+Chhattisgarh,31,October,2019,Thursday,7043840,6.96,46.28,Rural,West,21.2787,81.8661
+Chhattisgarh,30,November,2019,Saturday,6942931,2.77,43.56,Rural,West,21.2787,81.8661
+Chhattisgarh,31,December,2019,Tuesday,6569385,6.11,42.59,Rural,West,21.2787,81.8661
+Chhattisgarh,31,January,2020,Friday,6236201,9.89,42.03,Rural,West,21.2787,81.8661
+Chhattisgarh,29,February,2020,Saturday,6847173,7.89,45.05,Rural,West,21.2787,81.8661
+Chhattisgarh,31,March,2020,Tuesday,6894808,7.31,44.98,Rural,West,21.2787,81.8661
+Chhattisgarh,30,April,2020,Thursday,6534321,0.0,39.43,Rural,West,21.2787,81.8661
+Chhattisgarh,31,May,2020,Sunday,5454091,7.64,35.56,Rural,West,21.2787,81.8661
+Chhattisgarh,30,June,2020,Tuesday,5781095,10.14,38.66,Rural,West,21.2787,81.8661
+Delhi,31,May,2019,Friday,169487,12.56,42.33,Rural,North,28.7041,77.1025
+Delhi,30,June,2019,Sunday,149076,9.33,35.74,Rural,North,28.7041,77.1025
+Delhi,31,July,2019,Wednesday,166605,11.07,40.53,Rural,North,28.7041,77.1025
+Delhi,31,August,2019,Saturday,135407,17.18,35.21,Rural,North,28.7041,77.1025
+Delhi,30,September,2019,Monday,166056,12.5,40.68,Rural,North,28.7041,77.1025
+Delhi,31,October,2019,Thursday,149511,15.84,37.9,Rural,North,28.7041,77.1025
+Delhi,30,November,2019,Saturday,178768,11.11,42.71,Rural,North,28.7041,77.1025
+Delhi,31,December,2019,Tuesday,145671,16.97,37.08,Rural,North,28.7041,77.1025
+Delhi,31,January,2020,Friday,157791,13.48,38.36,Rural,North,28.7041,77.1025
+Delhi,29,February,2020,Saturday,147500,13.81,35.84,Rural,North,28.7041,77.1025
+Delhi,31,March,2020,Tuesday,152413,15.18,37.45,Rural,North,28.7041,77.1025
+Delhi,30,April,2020,Thursday,115487,20.69,30.21,Rural,North,28.7041,77.1025
+Delhi,31,May,2020,Sunday,129610,22.76,34.65,Rural,North,28.7041,77.1025
+Delhi,30,June,2020,Tuesday,112108,21.14,29.22,Rural,North,28.7041,77.1025
+Goa,31,May,2019,Friday,179340,2.91,39.16,Rural,West,15.2993,74.124
+Goa,30,June,2019,Sunday,170471,5.45,38.19,Rural,West,15.2993,74.124
+Goa,31,July,2019,Wednesday,167437,10.98,39.81,Rural,West,15.2993,74.124
+Goa,31,August,2019,Saturday,183603,1.98,39.61,Rural,West,15.2993,74.124
+Goa,30,September,2019,Monday,163215,3.61,35.78,Rural,West,15.2993,74.124
+Goa,31,October,2019,Thursday,177440,7.21,40.36,Rural,West,15.2993,74.124
+Goa,30,November,2019,Saturday,159489,23.71,44.09,Rural,West,15.2993,74.124
+Goa,31,December,2019,Tuesday,177155,3.54,38.7,Rural,West,15.2993,74.124
+Goa,31,January,2020,Friday,158936,5.38,35.36,Rural,West,15.2993,74.124
+Goa,29,February,2020,Saturday,171672,0.0,36.11,Rural,West,15.2993,74.124
+Goa,30,April,2020,Thursday,181657,15.91,45.36,Rural,West,15.2993,74.124
+Goa,31,May,2020,Sunday,128538,20.0,33.71,Rural,West,15.2993,74.124
+Gujarat,31,May,2019,Friday,13954728,2.88,52.03,Rural,West,22.2587,71.1924
+Gujarat,30,June,2019,Sunday,13199281,4.77,50.12,Rural,West,22.2587,71.1924
+Gujarat,31,July,2019,Wednesday,14327083,4.58,54.21,Rural,West,22.2587,71.1924
+Gujarat,31,August,2019,Saturday,13507342,3.7,50.57,Rural,West,22.2587,71.1924
+Gujarat,30,September,2019,Monday,13280783,6.29,51.01,Rural,West,22.2587,71.1924
+Gujarat,31,October,2019,Thursday,13828512,4.91,52.27,Rural,West,22.2587,71.1924
+Gujarat,30,November,2019,Saturday,14487815,4.68,54.55,Rural,West,22.2587,71.1924
+Gujarat,31,December,2019,Tuesday,13877825,3.46,51.51,Rural,West,22.2587,71.1924
+Gujarat,31,January,2020,Friday,14301844,5.35,54.07,Rural,West,22.2587,71.1924
+Gujarat,29,February,2020,Saturday,13973042,6.64,53.48,Rural,West,22.2587,71.1924
+Gujarat,31,March,2020,Tuesday,13483615,7.59,52.06,Rural,West,22.2587,71.1924
+Gujarat,30,April,2020,Thursday,8587594,12.0,34.77,Rural,West,22.2587,71.1924
+Gujarat,31,May,2020,Sunday,11121124,14.58,46.31,Rural,West,22.2587,71.1924
+Gujarat,30,June,2020,Tuesday,13243922,1.41,47.72,Rural,West,22.2587,71.1924
+Haryana,31,May,2019,Friday,5249186,14.54,45.12,Rural,North,29.0588,76.0856
+Haryana,30,June,2019,Sunday,4745178,23.08,45.23,Rural,North,29.0588,76.0856
+Haryana,31,July,2019,Wednesday,4826560,16.22,42.17,Rural,North,29.0588,76.0856
+Haryana,31,August,2019,Saturday,4558306,30.94,48.23,Rural,North,29.0588,76.0856
+Haryana,30,September,2019,Monday,5127956,16.36,44.72,Rural,North,29.0588,76.0856
+Haryana,31,October,2019,Thursday,4798833,24.17,46.07,Rural,North,29.0588,76.0856
+Haryana,30,November,2019,Saturday,4875763,16.59,42.48,Rural,North,29.0588,76.0856
+Haryana,31,December,2019,Tuesday,4603484,29.56,47.4,Rural,North,29.0588,76.0856
+Haryana,31,January,2020,Friday,5062293,16.21,43.74,Rural,North,29.0588,76.0856
+Haryana,29,February,2020,Saturday,4570108,27.19,45.37,Rural,North,29.0588,76.0856
+Haryana,31,March,2020,Tuesday,4366148,23.92,41.4,Rural,North,29.0588,76.0856
+Haryana,30,April,2020,Thursday,4041050,41.61,49.85,Rural,North,29.0588,76.0856
+Haryana,31,May,2020,Sunday,3914193,34.22,42.78,Rural,North,29.0588,76.0856
+Haryana,30,June,2020,Tuesday,4357835,35.57,48.53,Rural,North,29.0588,76.0856
+Himachal Pradesh,31,May,2019,Friday,2045760,13.68,44.23,Rural,North,31.1048,77.1734
+Himachal Pradesh,30,June,2019,Sunday,1957081,11.43,41.18,Rural,North,31.1048,77.1734
+Himachal Pradesh,31,July,2019,Wednesday,1916824,20.59,44.91,Rural,North,31.1048,77.1734
+Himachal Pradesh,31,August,2019,Saturday,1969248,18.56,44.91,Rural,North,31.1048,77.1734
+Himachal Pradesh,30,September,2019,Monday,2039804,15.98,45.02,Rural,North,31.1048,77.1734
+Himachal Pradesh,31,October,2019,Thursday,1946957,15.81,42.81,Rural,North,31.1048,77.1734
+Himachal Pradesh,30,November,2019,Saturday,2024409,22.86,48.5,Rural,North,31.1048,77.1734
+Himachal Pradesh,31,December,2019,Tuesday,1922821,19.46,44.05,Rural,North,31.1048,77.1734
+Himachal Pradesh,31,January,2020,Friday,2041035,16.67,45.11,Rural,North,31.1048,77.1734
+Himachal Pradesh,29,February,2020,Saturday,1952464,15.42,42.45,Rural,North,31.1048,77.1734
+Himachal Pradesh,31,March,2020,Tuesday,1800426,17.71,40.17,Rural,North,31.1048,77.1734
+Himachal Pradesh,30,April,2020,Thursday,984171,2.13,18.43,Rural,North,31.1048,77.1734
+Himachal Pradesh,31,May,2020,Sunday,1732050,25.64,42.62,Rural,North,31.1048,77.1734
+Himachal Pradesh,30,June,2020,Tuesday,2230075,1.12,41.2,Rural,North,31.1048,77.1734
+Jammu & Kashmir,31,May,2019,Friday,2495186,12.78,40.57,Rural,North,33.7782,76.5762
+Jammu & Kashmir,30,June,2019,Sunday,2423742,12.09,39.02,Rural,North,33.7782,76.5762
+Jammu & Kashmir,31,July,2019,Wednesday,2549316,13.67,41.71,Rural,North,33.7782,76.5762
+Jammu & Kashmir,31,August,2019,Saturday,2778624,11.32,44.17,Rural,North,33.7782,76.5762
+Jammu & Kashmir,31,October,2019,Thursday,2477621,19.27,43.08,Rural,North,33.7782,76.5762
+Jammu & Kashmir,30,November,2019,Saturday,2415724,14.73,39.69,Rural,North,33.7782,76.5762
+Jammu & Kashmir,31,January,2020,Friday,2373488,22.19,42.56,Rural,North,33.7782,76.5762
+Jammu & Kashmir,29,February,2020,Saturday,2163397,21.23,38.25,Rural,North,33.7782,76.5762
+Jammu & Kashmir,31,March,2020,Tuesday,2361004,16.0,39.06,Rural,North,33.7782,76.5762
+Jammu & Kashmir,31,May,2020,Sunday,2716966,2.22,38.46,Rural,North,33.7782,76.5762
+Jammu & Kashmir,30,June,2020,Tuesday,2049617,18.97,34.94,Rural,North,33.7782,76.5762
+Jharkhand,31,May,2019,Friday,7035766,7.11,39.04,Rural,East,23.6102,85.2799
+Jharkhand,30,June,2019,Sunday,7319782,8.46,41.12,Rural,East,23.6102,85.2799
+Jharkhand,31,July,2019,Wednesday,6958404,9.98,39.66,Rural,East,23.6102,85.2799
+Jharkhand,31,August,2019,Saturday,7015356,12.06,40.83,Rural,East,23.6102,85.2799
+Jharkhand,30,September,2019,Monday,7500122,7.12,41.24,Rural,East,23.6102,85.2799
+Jharkhand,31,October,2019,Thursday,7761243,6.57,42.33,Rural,East,23.6102,85.2799
+Jharkhand,30,November,2019,Saturday,7279628,8.07,40.26,Rural,East,23.6102,85.2799
+Jharkhand,31,December,2019,Tuesday,6873437,15.15,41.09,Rural,East,23.6102,85.2799
+Jharkhand,31,January,2020,Friday,7868736,6.16,42.43,Rural,East,23.6102,85.2799
+Jharkhand,29,February,2020,Saturday,7932402,9.06,44.05,Rural,East,23.6102,85.2799
+Jharkhand,31,March,2020,Tuesday,7157454,5.01,37.96,Rural,East,23.6102,85.2799
+Jharkhand,30,April,2020,Thursday,4280434,41.72,36.92,Rural,East,23.6102,85.2799
+Jharkhand,31,May,2020,Sunday,3315038,55.1,37.03,Rural,East,23.6102,85.2799
+Jharkhand,30,June,2020,Tuesday,6375114,21.53,40.65,Rural,East,23.6102,85.2799
+Karnataka,31,May,2019,Friday,13911440,5.46,46.36,Rural,South,15.3173,75.7139
+Karnataka,30,June,2019,Sunday,12888490,5.98,43.12,Rural,South,15.3173,75.7139
+Karnataka,31,July,2019,Wednesday,12169808,0.52,38.42,Rural,South,15.3173,75.7139
+Karnataka,31,August,2019,Saturday,12686470,0.37,39.93,Rural,South,15.3173,75.7139
+Karnataka,30,September,2019,Monday,13741892,3.2,44.45,Rural,South,15.3173,75.7139
+Karnataka,31,October,2019,Thursday,12803527,7.13,43.1,Rural,South,15.3173,75.7139
+Karnataka,30,November,2019,Saturday,11537217,1.19,36.45,Rural,South,15.3173,75.7139
+Karnataka,31,December,2019,Tuesday,12756132,0.41,39.92,Rural,South,15.3173,75.7139
+Karnataka,31,January,2020,Friday,13938874,2.57,44.52,Rural,South,15.3173,75.7139
+Karnataka,29,February,2020,Saturday,12753657,4.11,41.33,Rural,South,15.3173,75.7139
+Karnataka,31,March,2020,Tuesday,12853818,2.39,40.85,Rural,South,15.3173,75.7139
+Karnataka,30,April,2020,Thursday,9330400,33.17,43.25,Rural,South,15.3173,75.7139
+Karnataka,31,May,2020,Sunday,10626328,23.72,43.09,Rural,South,15.3173,75.7139
+Karnataka,30,June,2020,Tuesday,15396213,10.92,53.37,Rural,South,15.3173,75.7139
+Kerala,31,May,2019,Friday,5184355,6.63,38.07,Rural,South,10.8505,76.2711
+Kerala,30,June,2019,Sunday,5605627,9.0,42.19,Rural,South,10.8505,76.2711
+Kerala,31,July,2019,Wednesday,4855393,4.95,34.96,Rural,South,10.8505,76.2711
+Kerala,31,August,2019,Saturday,5233449,10.32,39.9,Rural,South,10.8505,76.2711
+Kerala,30,September,2019,Monday,5400499,5.35,38.97,Rural,South,10.8505,76.2711
+Kerala,31,October,2019,Thursday,5328825,9.14,40.02,Rural,South,10.8505,76.2711
+Kerala,30,November,2019,Saturday,4557906,5.0,32.71,Rural,South,10.8505,76.2711
+Kerala,31,December,2019,Tuesday,5065804,10.77,38.67,Rural,South,10.8505,76.2711
+Kerala,31,January,2020,Friday,5307026,4.11,37.66,Rural,South,10.8505,76.2711
+Kerala,29,February,2020,Saturday,5203579,8.91,38.84,Rural,South,10.8505,76.2711
+Kerala,31,March,2020,Tuesday,4141953,8.85,30.87,Rural,South,10.8505,76.2711
+Kerala,30,April,2020,Thursday,1754170,10.71,13.33,Rural,South,10.8505,76.2711
+Kerala,31,May,2020,Sunday,3799919,23.38,33.62,Rural,South,10.8505,76.2711
+Kerala,30,June,2020,Tuesday,3952088,27.66,37.01,Rural,South,10.8505,76.2711
+Madhya Pradesh,31,May,2019,Friday,15349838,3.63,37.97,Rural,West,22.9734,78.6569
+Madhya Pradesh,30,June,2019,Sunday,16294794,4.25,40.48,Rural,West,22.9734,78.6569
+Madhya Pradesh,31,July,2019,Wednesday,16274707,3.92,40.2,Rural,West,22.9734,78.6569
+Madhya Pradesh,31,August,2019,Saturday,16559137,4.94,41.25,Rural,West,22.9734,78.6569
+Madhya Pradesh,30,September,2019,Monday,16159315,3.08,39.4,Rural,West,22.9734,78.6569
+Madhya Pradesh,31,October,2019,Thursday,17060638,2.98,41.46,Rural,West,22.9734,78.6569
+Madhya Pradesh,30,November,2019,Saturday,16306428,2.72,39.44,Rural,West,22.9734,78.6569
+Madhya Pradesh,31,December,2019,Tuesday,16854647,2.94,40.77,Rural,West,22.9734,78.6569
+Madhya Pradesh,31,January,2020,Friday,16183702,3.66,39.35,Rural,West,22.9734,78.6569
+Madhya Pradesh,29,February,2020,Saturday,16178044,4.42,39.57,Rural,West,22.9734,78.6569
+Madhya Pradesh,31,March,2020,Tuesday,16480441,1.19,38.9,Rural,West,22.9734,78.6569
+Madhya Pradesh,30,April,2020,Thursday,14238959,12.5,37.88,Rural,West,22.9734,78.6569
+Madhya Pradesh,31,May,2020,Sunday,13099601,22.46,39.24,Rural,West,22.9734,78.6569
+Madhya Pradesh,30,June,2020,Tuesday,16748971,6.46,41.5,Rural,West,22.9734,78.6569
+Maharashtra,31,May,2019,Friday,23896858,3.67,47.11,Rural,West,19.7515,75.7139
+Maharashtra,30,June,2019,Sunday,23056511,4.34,45.69,Rural,West,19.7515,75.7139
+Maharashtra,31,July,2019,Wednesday,24843750,3.66,48.8,Rural,West,19.7515,75.7139
+Maharashtra,31,August,2019,Saturday,26835389,3.76,52.67,Rural,West,19.7515,75.7139
+Maharashtra,30,September,2019,Monday,25219281,4.4,49.74,Rural,West,19.7515,75.7139
+Maharashtra,31,October,2019,Thursday,24330249,3.81,47.61,Rural,West,19.7515,75.7139
+Maharashtra,30,November,2019,Saturday,24881383,3.68,48.53,Rural,West,19.7515,75.7139
+Maharashtra,31,December,2019,Tuesday,26357625,3.03,50.98,Rural,West,19.7515,75.7139
+Maharashtra,31,January,2020,Friday,25881398,3.8,50.36,Rural,West,19.7515,75.7139
+Maharashtra,29,February,2020,Saturday,25293535,4.24,49.36,Rural,West,19.7515,75.7139
+Maharashtra,31,March,2020,Tuesday,23130976,5.38,45.6,Rural,West,19.7515,75.7139
+Maharashtra,30,April,2020,Thursday,15014802,25.28,37.42,Rural,West,19.7515,75.7139
+Maharashtra,31,May,2020,Sunday,18423447,16.89,41.21,Rural,West,19.7515,75.7139
+Maharashtra,30,June,2020,Tuesday,23601016,9.4,48.34,Rural,West,19.7515,75.7139
+Meghalaya,31,May,2019,Friday,1119011,3.16,66.13,Rural,Northeast,25.467,91.3662
+Meghalaya,30,June,2019,Sunday,1024797,4.23,61.09,Rural,Northeast,25.467,91.3662
+Meghalaya,31,July,2019,Wednesday,1158511,1.03,66.67,Rural,Northeast,25.467,91.3662
+Meghalaya,31,August,2019,Saturday,1065725,0.52,60.86,Rural,Northeast,25.467,91.3662
+Meghalaya,30,September,2019,Monday,1162159,0.24,66.02,Rural,Northeast,25.467,91.3662
+Meghalaya,31,October,2019,Thursday,1080609,3.7,63.44,Rural,Northeast,25.467,91.3662
+Meghalaya,30,November,2019,Saturday,1205703,1.5,69.03,Rural,Northeast,25.467,91.3662
+Meghalaya,31,December,2019,Tuesday,1102997,1.8,63.18,Rural,Northeast,25.467,91.3662
+Meghalaya,31,January,2020,Friday,1229406,0.97,69.66,Rural,Northeast,25.467,91.3662
+Meghalaya,29,February,2020,Saturday,1112864,2.76,64.06,Rural,Northeast,25.467,91.3662
+Meghalaya,31,March,2020,Tuesday,1192616,1.28,67.46,Rural,Northeast,25.467,91.3662
+Meghalaya,30,April,2020,Thursday,803118,8.38,48.83,Rural,Northeast,25.467,91.3662
+Meghalaya,31,May,2020,Sunday,992148,3.73,57.26,Rural,Northeast,25.467,91.3662
+Meghalaya,30,June,2020,Tuesday,1150200,1.35,64.63,Rural,Northeast,25.467,91.3662
+Odisha,31,May,2019,Friday,11155753,4.17,40.47,Rural,East,20.9517,85.0985
+Odisha,30,June,2019,Sunday,10965154,4.71,39.94,Rural,East,20.9517,85.0985
+Odisha,31,July,2019,Wednesday,12009883,3.31,43.05,Rural,East,20.9517,85.0985
+Odisha,31,August,2019,Saturday,11727659,3.68,42.13,Rural,East,20.9517,85.0985
+Odisha,30,September,2019,Monday,11167715,4.31,40.32,Rural,East,20.9517,85.0985
+Odisha,31,October,2019,Thursday,11621534,4.28,41.88,Rural,East,20.9517,85.0985
+Odisha,30,November,2019,Saturday,12192623,4.72,44.06,Rural,East,20.9517,85.0985
+Odisha,31,December,2019,Tuesday,11345069,4.67,40.91,Rural,East,20.9517,85.0985
+Odisha,31,January,2020,Friday,11182128,1.81,39.09,Rural,East,20.9517,85.0985
+Odisha,29,February,2020,Saturday,11842655,3.31,41.98,Rural,East,20.9517,85.0985
+Odisha,31,March,2020,Tuesday,9814156,15.09,39.55,Rural,East,20.9517,85.0985
+Odisha,30,April,2020,Thursday,5562449,24.48,25.16,Rural,East,20.9517,85.0985
+Odisha,31,May,2020,Sunday,9683719,9.45,36.48,Rural,East,20.9517,85.0985
+Odisha,30,June,2020,Tuesday,10187145,4.59,36.36,Rural,East,20.9517,85.0985
+Puducherry,31,May,2019,Friday,172474,0.0,43.08,Rural,South,11.9416,79.8083
+Puducherry,30,June,2019,Sunday,184527,0.0,45.95,Rural,South,11.9416,79.8083
+Puducherry,31,July,2019,Wednesday,139227,0.0,34.56,Rural,South,11.9416,79.8083
+Puducherry,31,August,2019,Saturday,183930,4.85,47.83,Rural,South,11.9416,79.8083
+Puducherry,30,September,2019,Monday,175718,0.0,43.34,Rural,South,11.9416,79.8083
+Puducherry,31,October,2019,Thursday,180283,1.18,44.85,Rural,South,11.9416,79.8083
+Puducherry,30,November,2019,Saturday,142787,0.0,35.0,Rural,South,11.9416,79.8083
+Puducherry,31,December,2019,Tuesday,180808,1.99,45.07,Rural,South,11.9416,79.8083
+Puducherry,31,January,2020,Friday,176252,0.58,43.18,Rural,South,11.9416,79.8083
+Puducherry,29,February,2020,Saturday,183619,1.74,45.38,Rural,South,11.9416,79.8083
+Puducherry,31,March,2020,Tuesday,142176,2.31,35.23,Rural,South,11.9416,79.8083
+Puducherry,30,April,2020,Thursday,49420,74.51,46.79,Rural,South,11.9416,79.8083
+Punjab,31,May,2019,Friday,6088547,9.17,44.79,Rural,North,31.1471,75.3412
+Punjab,30,June,2019,Sunday,6025235,12.21,45.79,Rural,North,31.1471,75.3412
+Punjab,31,July,2019,Wednesday,6308129,9.64,46.5,Rural,North,31.1471,75.3412
+Punjab,31,August,2019,Saturday,6183427,6.69,44.08,Rural,North,31.1471,75.3412
+Punjab,30,September,2019,Monday,6260971,8.59,45.49,Rural,North,31.1471,75.3412
+Punjab,31,October,2019,Thursday,6021921,12.56,45.66,Rural,North,31.1471,75.3412
+Punjab,30,November,2019,Saturday,6395022,7.07,45.55,Rural,North,31.1471,75.3412
+Punjab,31,December,2019,Tuesday,6164215,6.13,43.4,Rural,North,31.1471,75.3412
+Punjab,31,January,2020,Friday,6189471,9.69,45.22,Rural,North,31.1471,75.3412
+Punjab,29,February,2020,Saturday,6009820,10.41,44.19,Rural,North,31.1471,75.3412
+Punjab,31,March,2020,Tuesday,6373692,10.51,46.85,Rural,North,31.1471,75.3412
+Punjab,30,April,2020,Thursday,4721590,3.69,32.2,Rural,North,31.1471,75.3412
+Punjab,31,May,2020,Sunday,3727366,40.59,41.14,Rural,North,31.1471,75.3412
+Punjab,30,June,2020,Tuesday,5364047,20.0,43.9,Rural,North,31.1471,75.3412
+Rajasthan,31,May,2019,Friday,15226005,4.03,38.52,Rural,North,27.0238,74.2179
+Rajasthan,30,June,2019,Sunday,14610564,13.7,41.02,Rural,North,27.0238,74.2179
+Rajasthan,31,July,2019,Wednesday,14859873,9.7,39.78,Rural,North,27.0238,74.2179
+Rajasthan,31,August,2019,Saturday,15052051,12.5,41.48,Rural,North,27.0238,74.2179
+Rajasthan,30,September,2019,Monday,15419779,5.45,39.24,Rural,North,27.0238,74.2179
+Rajasthan,31,October,2019,Thursday,15178544,14.66,42.69,Rural,North,27.0238,74.2179
+Rajasthan,30,November,2019,Saturday,15278556,10.47,40.87,Rural,North,27.0238,74.2179
+Rajasthan,31,December,2019,Tuesday,15485307,13.96,43.0,Rural,North,27.0238,74.2179
+Rajasthan,31,January,2020,Friday,15484353,8.0,40.12,Rural,North,27.0238,74.2179
+Rajasthan,29,February,2020,Saturday,15040572,14.48,41.83,Rural,North,27.0238,74.2179
+Rajasthan,31,March,2020,Tuesday,15059769,9.47,39.47,Rural,North,27.0238,74.2179
+Rajasthan,30,April,2020,Thursday,13051219,12.25,35.21,Rural,North,27.0238,74.2179
+Rajasthan,31,May,2020,Sunday,15586833,10.45,41.11,Rural,North,27.0238,74.2179
+Rajasthan,30,June,2020,Tuesday,16076978,13.86,43.98,Rural,North,27.0238,74.2179
+Sikkim,31,October,2019,Thursday,146688,5.48,44.06,Rural,Northeast,27.533,88.5122
+Sikkim,30,November,2019,Saturday,162426,13.11,53.04,Rural,Northeast,27.533,88.5122
+Sikkim,31,December,2019,Tuesday,161647,1.0,46.3,Rural,Northeast,27.533,88.5122
+Sikkim,30,April,2020,Thursday,133399,0.0,37.72,Rural,Northeast,27.533,88.5122
+Sikkim,30,June,2020,Tuesday,141313,5.81,42.36,Rural,Northeast,27.533,88.5122
+Tamil Nadu,31,May,2019,Friday,15844698,0.97,49.44,Rural,South,11.1271,78.6569
+Tamil Nadu,30,June,2019,Sunday,16375303,0.92,50.99,Rural,South,11.1271,78.6569
+Tamil Nadu,31,July,2019,Wednesday,16455928,6.01,53.94,Rural,South,11.1271,78.6569
+Tamil Nadu,31,August,2019,Saturday,16463931,2.91,52.17,Rural,South,11.1271,78.6569
+Tamil Nadu,30,September,2019,Monday,14595441,1.71,45.62,Rural,South,11.1271,78.6569
+Tamil Nadu,31,October,2019,Thursday,15595647,1.46,48.55,Rural,South,11.1271,78.6569
+Tamil Nadu,30,November,2019,Saturday,16223430,2.46,50.95,Rural,South,11.1271,78.6569
+Tamil Nadu,31,December,2019,Tuesday,15356938,3.73,48.8,Rural,South,11.1271,78.6569
+Tamil Nadu,31,January,2020,Friday,14954646,1.18,46.23,Rural,South,11.1271,78.6569
+Tamil Nadu,29,February,2020,Saturday,15828488,1.17,48.86,Rural,South,11.1271,78.6569
+Tamil Nadu,31,March,2020,Tuesday,15848590,6.36,51.56,Rural,South,11.1271,78.6569
+Tamil Nadu,30,April,2020,Thursday,5086200,53.19,33.05,Rural,South,11.1271,78.6569
+Tamil Nadu,31,May,2020,Sunday,5768342,38.73,28.6,Rural,South,11.1271,78.6569
+Tamil Nadu,30,June,2020,Tuesday,10169115,2.06,31.49,Rural,South,11.1271,78.6569
+Telangana,31,May,2019,Friday,11053353,2.23,61.74,Rural,South,18.1124,79.0193
+Telangana,30,June,2019,Sunday,10728822,5.92,62.19,Rural,South,18.1124,79.0193
+Telangana,31,July,2019,Wednesday,11538688,2.45,64.4,Rural,South,18.1124,79.0193
+Telangana,31,August,2019,Saturday,10743959,1.4,59.23,Rural,South,18.1124,79.0193
+Telangana,30,September,2019,Monday,12636415,5.49,72.57,Rural,South,18.1124,79.0193
+Telangana,31,October,2019,Thursday,11375354,7.29,66.49,Rural,South,18.1124,79.0193
+Telangana,30,November,2019,Saturday,11265828,6.47,65.17,Rural,South,18.1124,79.0193
+Telangana,31,December,2019,Tuesday,11068056,1.35,60.61,Rural,South,18.1124,79.0193
+Telangana,31,January,2020,Friday,12065915,5.02,68.51,Rural,South,18.1124,79.0193
+Telangana,29,February,2020,Saturday,11304474,9.02,66.92,Rural,South,18.1124,79.0193
+Telangana,31,March,2020,Tuesday,12028377,5.63,68.53,Rural,South,18.1124,79.0193
+Telangana,30,April,2020,Thursday,8793799,4.51,49.44,Rural,South,18.1124,79.0193
+Telangana,31,May,2020,Sunday,7508747,34.01,61.0,Rural,South,18.1124,79.0193
+Telangana,30,June,2020,Tuesday,8891181,19.3,58.97,Rural,South,18.1124,79.0193
+Tripura,31,May,2019,Friday,1019549,29.25,64.47,Rural,Northeast,23.9408,91.9882
+Tripura,30,June,2019,Sunday,1107013,26.64,67.4,Rural,Northeast,23.9408,91.9882
+Tripura,31,July,2019,Wednesday,1052597,22.47,60.54,Rural,Northeast,23.9408,91.9882
+Tripura,31,August,2019,Saturday,975501,25.49,58.29,Rural,Northeast,23.9408,91.9882
+Tripura,30,September,2019,Monday,1034408,30.23,65.9,Rural,Northeast,23.9408,91.9882
+Tripura,31,October,2019,Thursday,1113764,27.54,68.21,Rural,Northeast,23.9408,91.9882
+Tripura,30,November,2019,Saturday,1084633,25.25,64.29,Rural,Northeast,23.9408,91.9882
+Tripura,31,December,2019,Tuesday,1046878,26.53,63.02,Rural,Northeast,23.9408,91.9882
+Tripura,31,January,2020,Friday,1057975,31.91,68.61,Rural,Northeast,23.9408,91.9882
+Tripura,29,February,2020,Saturday,1169347,26.22,69.88,Rural,Northeast,23.9408,91.9882
+Tripura,31,March,2020,Tuesday,1060946,31.61,68.28,Rural,Northeast,23.9408,91.9882
+Tripura,30,April,2020,Thursday,675083,43.64,52.63,Rural,Northeast,23.9408,91.9882
+Tripura,31,May,2020,Sunday,911789,14.71,46.9,Rural,Northeast,23.9408,91.9882
+Tripura,30,June,2020,Tuesday,1106978,18.84,59.74,Rural,Northeast,23.9408,91.9882
+Uttar Pradesh,31,May,2019,Friday,43287808,10.26,39.96,Rural,North,26.8467,80.9462
+Uttar Pradesh,30,June,2019,Sunday,42276572,11.13,39.32,Rural,North,26.8467,80.9462
+Uttar Pradesh,31,July,2019,Wednesday,42697000,9.19,38.78,Rural,North,26.8467,80.9462
+Uttar Pradesh,31,August,2019,Saturday,43298746,11.47,40.24,Rural,North,26.8467,80.9462
+Uttar Pradesh,30,September,2019,Monday,44198762,6.45,38.79,Rural,North,26.8467,80.9462
+Uttar Pradesh,31,October,2019,Thursday,42833265,10.18,39.07,Rural,North,26.8467,80.9462
+Uttar Pradesh,30,November,2019,Saturday,43261530,6.94,38.01,Rural,North,26.8467,80.9462
+Uttar Pradesh,31,December,2019,Tuesday,44640087,8.43,39.77,Rural,North,26.8467,80.9462
+Uttar Pradesh,31,January,2020,Friday,45777509,6.06,39.67,Rural,North,26.8467,80.9462
+Uttar Pradesh,29,February,2020,Saturday,44257432,8.12,39.13,Rural,North,26.8467,80.9462
+Uttar Pradesh,31,March,2020,Tuesday,43086706,9.37,38.53,Rural,North,26.8467,80.9462
+Uttar Pradesh,30,April,2020,Thursday,39970677,19.92,40.37,Rural,North,26.8467,80.9462
+Uttar Pradesh,31,May,2020,Sunday,38640999,16.89,37.52,Rural,North,26.8467,80.9462
+Uttar Pradesh,30,June,2020,Tuesday,41908909,8.51,36.89,Rural,North,26.8467,80.9462
+Uttarakhand,31,May,2019,Friday,2108044,1.63,37.47,Rural,North,30.0668,79.0193
+Uttarakhand,30,June,2019,Sunday,2021553,4.65,37.01,Rural,North,30.0668,79.0193
+Uttarakhand,31,July,2019,Wednesday,2000524,5.74,36.97,Rural,North,30.0668,79.0193
+Uttarakhand,31,August,2019,Saturday,1911380,6.11,35.39,Rural,North,30.0668,79.0193
+Uttarakhand,30,September,2019,Monday,2157845,3.47,38.79,Rural,North,30.0668,79.0193
+Uttarakhand,31,October,2019,Thursday,2027662,4.83,36.9,Rural,North,30.0668,79.0193
+Uttarakhand,30,November,2019,Saturday,2007113,5.56,36.73,Rural,North,30.0668,79.0193
+Uttarakhand,31,December,2019,Tuesday,1947566,4.52,35.19,Rural,North,30.0668,79.0193
+Uttarakhand,31,January,2020,Friday,1986386,4.17,35.69,Rural,North,30.0668,79.0193
+Uttarakhand,29,February,2020,Saturday,2057523,4.85,37.16,Rural,North,30.0668,79.0193
+Uttarakhand,30,April,2020,Thursday,1972074,3.66,35.04,Rural,North,30.0668,79.0193
+Uttarakhand,31,May,2020,Sunday,1915482,3.57,33.94,Rural,North,30.0668,79.0193
+Uttarakhand,30,June,2020,Tuesday,1675441,10.71,32.0,Rural,North,30.0668,79.0193
+West Bengal,31,May,2019,Friday,23452875,6.02,46.41,Rural,East,22.9868,87.855
+West Bengal,30,June,2019,Sunday,25543465,5.85,50.36,Rural,East,22.9868,87.855
+West Bengal,31,July,2019,Wednesday,24857807,5.62,48.78,Rural,East,22.9868,87.855
+West Bengal,31,August,2019,Saturday,24924827,5.58,48.79,Rural,East,22.9868,87.855
+West Bengal,30,September,2019,Monday,25610773,5.26,49.87,Rural,East,22.9868,87.855
+West Bengal,31,October,2019,Thursday,24353018,6.78,48.09,Rural,East,22.9868,87.855
+West Bengal,30,November,2019,Saturday,25630359,5.83,50.0,Rural,East,22.9868,87.855
+West Bengal,31,December,2019,Tuesday,24906239,5.79,48.47,Rural,East,22.9868,87.855
+West Bengal,31,January,2020,Friday,24612171,6.79,48.3,Rural,East,22.9868,87.855
+West Bengal,29,February,2020,Saturday,26093009,3.78,49.51,Rural,East,22.9868,87.855
+West Bengal,31,March,2020,Tuesday,25097812,7.02,49.18,Rural,East,22.9868,87.855
+West Bengal,30,April,2020,Thursday,17639370,18.32,39.27,Rural,East,22.9868,87.855
+West Bengal,31,May,2020,Sunday,19115772,18.43,42.53,Rural,East,22.9868,87.855
+West Bengal,30,June,2020,Tuesday,21225887,4.94,40.44,Rural,East,22.9868,87.855
+Andhra Pradesh,31,May,2019,Friday,4788661,6.09,37.45,Urban,South,15.9129,79.74
+Andhra Pradesh,30,June,2019,Sunday,4824630,3.8,36.76,Urban,South,15.9129,79.74
+Andhra Pradesh,31,July,2019,Wednesday,4657443,5.64,36.1,Urban,South,15.9129,79.74
+Andhra Pradesh,31,August,2019,Saturday,4743179,4.61,36.29,Urban,South,15.9129,79.74
+Andhra Pradesh,30,September,2019,Monday,4733996,6.01,36.69,Urban,South,15.9129,79.74
+Andhra Pradesh,31,October,2019,Thursday,4774377,4.7,36.41,Urban,South,15.9129,79.74
+Andhra Pradesh,30,November,2019,Saturday,4668772,7.54,36.62,Urban,South,15.9129,79.74
+Andhra Pradesh,31,December,2019,Tuesday,4913963,7.88,38.61,Urban,South,15.9129,79.74
+Andhra Pradesh,31,January,2020,Friday,4618860,7.11,35.91,Urban,South,15.9129,79.74
+Andhra Pradesh,29,February,2020,Saturday,4822035,5.66,36.84,Urban,South,15.9129,79.74
+Andhra Pradesh,31,March,2020,Tuesday,4521537,9.88,36.08,Urban,South,15.9129,79.74
+Andhra Pradesh,30,April,2020,Thursday,2544084,32.3,26.97,Urban,South,15.9129,79.74
+Andhra Pradesh,31,May,2020,Sunday,3428356,24.91,32.69,Urban,South,15.9129,79.74
+Andhra Pradesh,30,June,2020,Tuesday,4954389,5.86,37.61,Urban,South,15.9129,79.74
+Assam,31,May,2019,Friday,1671707,7.87,44.92,Urban,Northeast,26.2006,92.9376
+Assam,30,June,2019,Sunday,1647342,9.89,45.17,Urban,Northeast,26.2006,92.9376
+Assam,31,July,2019,Wednesday,1739838,3.21,44.32,Urban,Northeast,26.2006,92.9376
+Assam,31,August,2019,Saturday,1595582,10.39,43.81,Urban,Northeast,26.2006,92.9376
+Assam,30,September,2019,Monday,1576480,9.26,42.66,Urban,Northeast,26.2006,92.9376
+Assam,31,October,2019,Thursday,1595176,11.17,44.01,Urban,Northeast,26.2006,92.9376
+Assam,30,November,2019,Saturday,1708045,6.31,44.59,Urban,Northeast,26.2006,92.9376
+Assam,31,December,2019,Tuesday,1722303,5.02,44.26,Urban,Northeast,26.2006,92.9376
+Assam,31,January,2020,Friday,1630908,7.24,42.82,Urban,Northeast,26.2006,92.9376
+Assam,29,February,2020,Saturday,1625454,9.98,43.9,Urban,Northeast,26.2006,92.9376
+Assam,31,March,2020,Tuesday,1664145,10.34,45.03,Urban,Northeast,26.2006,92.9376
+Assam,30,April,2020,Thursday,1454956,8.37,38.45,Urban,Northeast,26.2006,92.9376
+Assam,31,May,2020,Sunday,1441722,10.77,39.04,Urban,Northeast,26.2006,92.9376
+Assam,30,June,2020,Tuesday,1551007,3.42,38.73,Urban,Northeast,26.2006,92.9376
+Bihar,31,May,2019,Friday,3029344,19.9,39.8,Urban,East,25.0961,85.3131
+Bihar,30,June,2019,Sunday,3248864,13.29,39.35,Urban,East,25.0961,85.3131
+Bihar,31,July,2019,Wednesday,3059744,16.41,38.36,Urban,East,25.0961,85.3131
+Bihar,31,August,2019,Saturday,2994763,17.66,38.03,Urban,East,25.0961,85.3131
+Bihar,30,September,2019,Monday,2992082,20.46,39.25,Urban,East,25.0961,85.3131
+Bihar,31,October,2019,Thursday,3173429,14.06,38.45,Urban,East,25.0961,85.3131
+Bihar,30,November,2019,Saturday,3081077,17.62,38.86,Urban,East,25.0961,85.3131
+Bihar,31,December,2019,Tuesday,2977857,14.91,36.29,Urban,East,25.0961,85.3131
+Bihar,31,January,2020,Friday,2988665,20.69,38.99,Urban,East,25.0961,85.3131
+Bihar,29,February,2020,Saturday,3113464,15.11,37.87,Urban,East,25.0961,85.3131
+Bihar,31,March,2020,Tuesday,3049637,15.73,37.29,Urban,East,25.0961,85.3131
+Bihar,30,April,2020,Thursday,1400962,58.77,34.94,Urban,East,25.0961,85.3131
+Bihar,31,May,2020,Sunday,2207026,37.87,36.45,Urban,East,25.0961,85.3131
+Bihar,30,June,2020,Tuesday,3124663,12.45,36.54,Urban,East,25.0961,85.3131
+Chandigarh,31,May,2019,Friday,348042,18.35,44.89,Urban,North,30.7333,76.7794
+Chandigarh,30,June,2019,Sunday,337145,12.4,40.44,Urban,North,30.7333,76.7794
+Chandigarh,31,July,2019,Wednesday,294379,21.8,39.47,Urban,North,30.7333,76.7794
+Chandigarh,31,August,2019,Saturday,328282,9.52,37.95,Urban,North,30.7333,76.7794
+Chandigarh,30,September,2019,Monday,327239,20.14,42.77,Urban,North,30.7333,76.7794
+Chandigarh,31,October,2019,Thursday,330856,13.99,40.06,Urban,North,30.7333,76.7794
+Chandigarh,30,November,2019,Saturday,289593,22.05,38.6,Urban,North,30.7333,76.7794
+Chandigarh,31,December,2019,Tuesday,311146,8.33,35.19,Urban,North,30.7333,76.7794
+Chandigarh,31,January,2020,Friday,332062,20.0,42.94,Urban,North,30.7333,76.7794
+Chandigarh,29,February,2020,Saturday,316887,16.67,39.25,Urban,North,30.7333,76.7794
+Chandigarh,31,March,2020,Tuesday,279839,21.43,36.68,Urban,North,30.7333,76.7794
+Chandigarh,30,June,2020,Tuesday,306505,7.22,33.8,Urban,North,30.7333,76.7794
+Chhattisgarh,31,May,2019,Friday,2223129,9.77,45.61,Urban,West,21.2787,81.8661
+Chhattisgarh,30,June,2019,Sunday,2192020,11.77,45.88,Urban,West,21.2787,81.8661
+Chhattisgarh,31,July,2019,Wednesday,2285436,8.17,45.85,Urban,West,21.2787,81.8661
+Chhattisgarh,31,August,2019,Saturday,2392400,6.29,46.91,Urban,West,21.2787,81.8661
+Chhattisgarh,30,September,2019,Monday,2311507,9.46,46.8,Urban,West,21.2787,81.8661
+Chhattisgarh,31,October,2019,Thursday,2297096,10.27,46.82,Urban,West,21.2787,81.8661
+Chhattisgarh,30,November,2019,Saturday,2341284,8.32,46.59,Urban,West,21.2787,81.8661
+Chhattisgarh,31,December,2019,Tuesday,2415436,3.57,45.59,Urban,West,21.2787,81.8661
+Chhattisgarh,31,January,2020,Friday,2315972,9.01,46.21,Urban,West,21.2787,81.8661
+Chhattisgarh,29,February,2020,Saturday,2347941,9.79,47.14,Urban,West,21.2787,81.8661
+Chhattisgarh,31,March,2020,Tuesday,2407509,8.21,47.39,Urban,West,21.2787,81.8661
+Chhattisgarh,30,April,2020,Thursday,1066126,20.13,24.06,Urban,West,21.2787,81.8661
+Chhattisgarh,31,May,2020,Sunday,1276291,24.1,30.24,Urban,West,21.2787,81.8661
+Chhattisgarh,30,June,2020,Tuesday,1602231,27.07,39.41,Urban,West,21.2787,81.8661
+Delhi,31,May,2019,Friday,5756475,12.31,44.17,Urban,North,28.7041,77.1025
+Delhi,30,June,2019,Sunday,5550172,12.76,42.71,Urban,North,28.7041,77.1025
+Delhi,31,July,2019,Wednesday,5393091,14.68,42.34,Urban,North,28.7041,77.1025
+Delhi,31,August,2019,Saturday,5552510,13.52,42.9,Urban,North,28.7041,77.1025
+Delhi,30,September,2019,Monday,5642253,20.59,47.36,Urban,North,28.7041,77.1025
+Delhi,31,October,2019,Thursday,6030363,12.41,45.78,Urban,North,28.7041,77.1025
+Delhi,30,November,2019,Saturday,5439600,16.11,43.02,Urban,North,28.7041,77.1025
+Delhi,31,December,2019,Tuesday,5718337,11.07,42.56,Urban,North,28.7041,77.1025
+Delhi,31,January,2020,Friday,5647493,22.45,48.09,Urban,North,28.7041,77.1025
+Delhi,29,February,2020,Saturday,5708807,14.86,44.18,Urban,North,28.7041,77.1025
+Delhi,31,March,2020,Tuesday,5401392,17.09,42.82,Urban,North,28.7041,77.1025
+Delhi,30,April,2020,Thursday,3003787,16.51,23.59,Urban,North,28.7041,77.1025
+Delhi,31,May,2020,Sunday,2343783,45.78,28.28,Urban,North,28.7041,77.1025
+Delhi,30,June,2020,Tuesday,4306807,18.11,34.32,Urban,North,28.7041,77.1025
+Goa,31,May,2019,Friday,264855,2.75,34.17,Urban,West,15.2993,74.124
+Goa,30,June,2019,Sunday,304015,13.33,43.96,Urban,West,15.2993,74.124
+Goa,31,July,2019,Wednesday,280367,12.28,40.0,Urban,West,15.2993,74.124
+Goa,31,August,2019,Saturday,243277,4.9,31.97,Urban,West,15.2993,74.124
+Goa,30,September,2019,Monday,309643,3.16,39.92,Urban,West,15.2993,74.124
+Goa,31,October,2019,Thursday,290264,12.31,41.27,Urban,West,15.2993,74.124
+Goa,30,November,2019,Saturday,271612,25.2,45.22,Urban,West,15.2993,74.124
+Goa,31,December,2019,Tuesday,288154,16.22,42.77,Urban,West,15.2993,74.124
+Goa,31,January,2020,Friday,257814,10.92,35.95,Urban,West,15.2993,74.124
+Goa,29,February,2020,Saturday,306396,4.31,39.73,Urban,West,15.2993,74.124
+Goa,31,March,2020,Tuesday,277093,4.76,36.05,Urban,West,15.2993,74.124
+Goa,30,April,2020,Thursday,318957,11.76,44.74,Urban,West,15.2993,74.124
+Gujarat,31,May,2019,Friday,9686558,4.09,41.67,Urban,West,22.2587,71.1924
+Gujarat,30,June,2019,Sunday,10144965,6.31,44.57,Urban,West,22.2587,71.1924
+Gujarat,31,July,2019,Wednesday,9828023,5.15,42.54,Urban,West,22.2587,71.1924
+Gujarat,31,August,2019,Saturday,10228154,4.2,43.72,Urban,West,22.2587,71.1924
+Gujarat,30,September,2019,Monday,9609939,5.96,41.75,Urban,West,22.2587,71.1924
+Gujarat,31,October,2019,Thursday,10474217,5.45,45.14,Urban,West,22.2587,71.1924
+Gujarat,30,November,2019,Saturday,9896129,7.53,43.5,Urban,West,22.2587,71.1924
+Gujarat,31,December,2019,Tuesday,10172812,5.71,43.75,Urban,West,22.2587,71.1924
+Gujarat,31,January,2020,Friday,9824501,5.82,42.19,Urban,West,22.2587,71.1924
+Gujarat,29,February,2020,Saturday,10784753,6.04,46.31,Urban,West,22.2587,71.1924
+Gujarat,31,March,2020,Tuesday,10083026,5.39,42.9,Urban,West,22.2587,71.1924
+Gujarat,30,April,2020,Thursday,6701284,25.94,36.33,Urban,West,22.2587,71.1924
+Gujarat,31,May,2020,Sunday,6072776,11.62,27.52,Urban,West,22.2587,71.1924
+Gujarat,30,June,2020,Tuesday,10574711,4.54,44.26,Urban,West,22.2587,71.1924
+Haryana,31,May,2019,Friday,2693596,24.67,43.18,Urban,North,29.0588,76.0856
+Haryana,30,June,2019,Sunday,2845190,20.42,43.06,Urban,North,29.0588,76.0856
+Haryana,31,July,2019,Wednesday,2405973,25.45,38.77,Urban,North,29.0588,76.0856
+Haryana,31,August,2019,Saturday,2523005,24.19,39.87,Urban,North,29.0588,76.0856
+Haryana,30,September,2019,Monday,2675862,26.84,43.7,Urban,North,29.0588,76.0856
+Haryana,31,October,2019,Thursday,2821456,21.04,42.58,Urban,North,29.0588,76.0856
+Haryana,30,November,2019,Saturday,2404239,27.06,39.18,Urban,North,29.0588,76.0856
+Haryana,31,December,2019,Tuesday,2548835,23.65,39.57,Urban,North,29.0588,76.0856
+Haryana,31,January,2020,Friday,2630938,27.24,42.75,Urban,North,29.0588,76.0856
+Haryana,29,February,2020,Saturday,2752834,23.29,42.32,Urban,North,29.0588,76.0856
+Haryana,31,March,2020,Tuesday,2275407,27.14,36.73,Urban,North,29.0588,76.0856
+Haryana,30,April,2020,Thursday,1606580,46.89,35.48,Urban,North,29.0588,76.0856
+Haryana,31,May,2020,Sunday,2013083,38.46,38.27,Urban,North,29.0588,76.0856
+Haryana,30,June,2020,Tuesday,2304138,29.41,38.09,Urban,North,29.0588,76.0856
+Himachal Pradesh,31,May,2019,Friday,245668,10.88,45.27,Urban,North,31.1048,77.1734
+Himachal Pradesh,30,June,2019,Sunday,237576,21.43,49.58,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,July,2019,Wednesday,235894,21.51,49.22,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,August,2019,Saturday,236315,24.48,51.17,Urban,North,31.1048,77.1734
+Himachal Pradesh,30,September,2019,Monday,247210,12.0,45.87,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,October,2019,Thursday,232322,23.77,49.69,Urban,North,31.1048,77.1734
+Himachal Pradesh,30,November,2019,Saturday,233029,27.27,52.17,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,December,2019,Tuesday,241366,25.32,52.55,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,January,2020,Friday,246596,18.15,48.92,Urban,North,31.1048,77.1734
+Himachal Pradesh,29,February,2020,Saturday,227804,27.31,50.82,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,March,2020,Tuesday,221432,26.44,48.74,Urban,North,31.1048,77.1734
+Himachal Pradesh,30,April,2020,Thursday,146957,2.7,24.42,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,May,2020,Sunday,134868,50.0,43.55,Urban,North,31.1048,77.1734
+Himachal Pradesh,30,June,2020,Tuesday,224902,10.81,40.66,Urban,North,31.1048,77.1734
+Jammu & Kashmir,31,May,2019,Friday,1130139,23.04,46.74,Urban,North,33.7782,76.5762
+Jammu & Kashmir,30,June,2019,Sunday,1139815,19.88,45.17,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,July,2019,Wednesday,1183770,21.55,47.8,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,October,2019,Thursday,1029087,24.06,42.63,Urban,North,33.7782,76.5762
+Jammu & Kashmir,30,November,2019,Saturday,1226793,14.29,44.92,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,December,2019,Tuesday,1209085,7.02,40.71,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,January,2020,Friday,1079537,18.54,41.4,Urban,North,33.7782,76.5762
+Jammu & Kashmir,29,February,2020,Saturday,1060116,19.86,41.23,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,March,2020,Tuesday,998103,14.29,36.21,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,May,2020,Sunday,937435,12.96,33.33,Urban,North,33.7782,76.5762
+Jharkhand,31,May,2019,Friday,2404033,17.23,43.25,Urban,East,23.6102,85.2799
+Jharkhand,30,June,2019,Sunday,2326911,20.51,43.51,Urban,East,23.6102,85.2799
+Jharkhand,31,July,2019,Wednesday,2434579,15.67,42.82,Urban,East,23.6102,85.2799
+Jharkhand,31,August,2019,Saturday,2335406,20.25,43.35,Urban,East,23.6102,85.2799
+Jharkhand,30,September,2019,Monday,2357627,21.16,44.18,Urban,East,23.6102,85.2799
+Jharkhand,31,October,2019,Thursday,2460196,19.05,44.82,Urban,East,23.6102,85.2799
+Jharkhand,30,November,2019,Saturday,2424281,17.34,43.17,Urban,East,23.6102,85.2799
+Jharkhand,31,December,2019,Tuesday,2290170,22.01,43.14,Urban,East,23.6102,85.2799
+Jharkhand,31,January,2020,Friday,2329293,22.96,44.33,Urban,East,23.6102,85.2799
+Jharkhand,29,February,2020,Saturday,2493023,19.67,45.42,Urban,East,23.6102,85.2799
+Jharkhand,31,March,2020,Tuesday,2480661,16.4,43.34,Urban,East,23.6102,85.2799
+Jharkhand,30,April,2020,Thursday,1054829,61.48,39.92,Urban,East,23.6102,85.2799
+Jharkhand,31,May,2020,Sunday,830347,70.17,40.49,Urban,East,23.6102,85.2799
+Jharkhand,30,June,2020,Tuesday,2244460,19.38,40.43,Urban,East,23.6102,85.2799
+Karnataka,31,May,2019,Friday,8638239,6.56,40.62,Urban,South,15.3173,75.7139
+Karnataka,30,June,2019,Sunday,8862498,5.0,40.89,Urban,South,15.3173,75.7139
+Karnataka,31,July,2019,Wednesday,8738029,2.29,39.09,Urban,South,15.3173,75.7139
+Karnataka,31,August,2019,Saturday,8614340,1.27,38.04,Urban,South,15.3173,75.7139
+Karnataka,30,September,2019,Monday,8647794,3.57,39.0,Urban,South,15.3173,75.7139
+Karnataka,31,October,2019,Thursday,8799249,3.87,39.7,Urban,South,15.3173,75.7139
+Karnataka,30,November,2019,Saturday,8613835,3.44,38.6,Urban,South,15.3173,75.7139
+Karnataka,31,December,2019,Tuesday,8592376,1.56,37.66,Urban,South,15.3173,75.7139
+Karnataka,31,January,2020,Friday,8749154,3.31,38.94,Urban,South,15.3173,75.7139
+Karnataka,29,February,2020,Saturday,8924061,2.88,39.45,Urban,South,15.3173,75.7139
+Karnataka,31,March,2020,Tuesday,9225835,4.92,41.55,Urban,South,15.3173,75.7139
+Karnataka,30,April,2020,Thursday,7387995,25.12,42.14,Urban,South,15.3173,75.7139
+Karnataka,31,May,2020,Sunday,8669258,15.88,43.9,Urban,South,15.3173,75.7139
+Karnataka,30,June,2020,Tuesday,8822411,6.12,39.93,Urban,South,15.3173,75.7139
+Kerala,31,May,2019,Friday,4605913,6.11,36.65,Urban,South,10.8505,76.2711
+Kerala,30,June,2019,Sunday,4678374,6.67,37.42,Urban,South,10.8505,76.2711
+Kerala,31,July,2019,Wednesday,4105211,7.58,33.13,Urban,South,10.8505,76.2711
+Kerala,31,August,2019,Saturday,4448650,7.69,35.91,Urban,South,10.8505,76.2711
+Kerala,30,September,2019,Monday,4640642,5.52,36.57,Urban,South,10.8505,76.2711
+Kerala,31,October,2019,Thursday,4644510,5.35,36.49,Urban,South,10.8505,76.2711
+Kerala,30,November,2019,Saturday,4062767,6.71,32.36,Urban,South,10.8505,76.2711
+Kerala,31,December,2019,Tuesday,4440283,7.31,35.56,Urban,South,10.8505,76.2711
+Kerala,31,January,2020,Friday,4597507,6.65,36.53,Urban,South,10.8505,76.2711
+Kerala,29,February,2020,Saturday,4624444,6.08,36.48,Urban,South,10.8505,76.2711
+Kerala,31,March,2020,Tuesday,4079775,9.14,33.24,Urban,South,10.8505,76.2711
+Kerala,30,April,2020,Thursday,2179106,21.43,20.51,Urban,South,10.8505,76.2711
+Kerala,31,May,2020,Sunday,2826118,30.28,29.95,Urban,South,10.8505,76.2711
+Kerala,30,June,2020,Tuesday,4601293,12.17,38.68,Urban,South,10.8505,76.2711
+Madhya Pradesh,31,May,2019,Friday,6692720,3.91,38.96,Urban,West,22.9734,78.6569
+Madhya Pradesh,30,June,2019,Sunday,6509340,6.38,38.8,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,July,2019,Wednesday,6266446,7.38,37.67,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,August,2019,Saturday,6809834,6.82,40.6,Urban,West,22.9734,78.6569
+Madhya Pradesh,30,September,2019,Monday,6655967,7.0,39.67,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,October,2019,Thursday,6603715,4.4,38.2,Urban,West,22.9734,78.6569
+Madhya Pradesh,30,November,2019,Saturday,6459457,6.06,37.94,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,December,2019,Tuesday,6787403,6.2,39.83,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,January,2020,Friday,6834930,5.17,39.59,Urban,West,22.9734,78.6569
+Madhya Pradesh,29,February,2020,Saturday,6533435,4.96,37.68,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,March,2020,Tuesday,6386723,4.8,36.68,Urban,West,22.9734,78.6569
+Madhya Pradesh,30,April,2020,Thursday,4802873,11.94,29.76,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,May,2020,Sunday,3879934,40.49,35.49,Urban,West,22.9734,78.6569
+Madhya Pradesh,30,June,2020,Tuesday,6221562,12.72,38.72,Urban,West,22.9734,78.6569
+Maharashtra,31,May,2019,Friday,16962574,6.08,38.3,Urban,West,19.7515,75.7139
+Maharashtra,30,June,2019,Sunday,17375053,6.46,39.3,Urban,West,19.7515,75.7139
+Maharashtra,31,July,2019,Wednesday,17215677,6.35,38.81,Urban,West,19.7515,75.7139
+Maharashtra,31,August,2019,Saturday,16602767,7.57,37.84,Urban,West,19.7515,75.7139
+Maharashtra,30,September,2019,Monday,17396398,7.6,39.58,Urban,West,19.7515,75.7139
+Maharashtra,31,October,2019,Thursday,17221991,7.51,39.05,Urban,West,19.7515,75.7139
+Maharashtra,30,November,2019,Saturday,17486683,7.6,39.61,Urban,West,19.7515,75.7139
+Maharashtra,31,December,2019,Tuesday,16581144,7.83,37.57,Urban,West,19.7515,75.7139
+Maharashtra,31,January,2020,Friday,16715470,6.67,37.32,Urban,West,19.7515,75.7139
+Maharashtra,29,February,2020,Saturday,17122782,5.34,37.61,Urban,West,19.7515,75.7139
+Maharashtra,31,March,2020,Tuesday,17065830,6.34,37.8,Urban,West,19.7515,75.7139
+Maharashtra,30,April,2020,Thursday,12674451,14.99,30.86,Urban,West,19.7515,75.7139
+Maharashtra,31,May,2020,Sunday,12365754,15.92,30.38,Urban,West,19.7515,75.7139
+Maharashtra,30,June,2020,Tuesday,16172690,10.01,37.04,Urban,West,19.7515,75.7139
+Meghalaya,31,May,2019,Friday,228978,8.4,47.79,Urban,Northeast,25.467,91.3662
+Meghalaya,30,June,2019,Sunday,231252,8.66,48.29,Urban,Northeast,25.467,91.3662
+Meghalaya,31,July,2019,Wednesday,284015,4.43,56.55,Urban,Northeast,25.467,91.3662
+Meghalaya,31,August,2019,Saturday,259433,5.8,52.27,Urban,Northeast,25.467,91.3662
+Meghalaya,30,September,2019,Monday,253887,5.3,50.77,Urban,Northeast,25.467,91.3662
+Meghalaya,31,October,2019,Thursday,234375,7.2,47.71,Urban,Northeast,25.467,91.3662
+Meghalaya,30,November,2019,Saturday,293431,3.02,57.02,Urban,Northeast,25.467,91.3662
+Meghalaya,31,December,2019,Tuesday,267417,5.21,53.04,Urban,Northeast,25.467,91.3662
+Meghalaya,31,January,2020,Friday,261687,4.76,51.53,Urban,Northeast,25.467,91.3662
+Meghalaya,29,February,2020,Saturday,233965,7.37,47.26,Urban,Northeast,25.467,91.3662
+Meghalaya,31,March,2020,Tuesday,289735,2.8,55.64,Urban,Northeast,25.467,91.3662
+Meghalaya,30,April,2020,Thursday,161939,17.39,36.51,Urban,Northeast,25.467,91.3662
+Meghalaya,31,May,2020,Sunday,222916,14.58,48.48,Urban,Northeast,25.467,91.3662
+Odisha,31,May,2019,Friday,2519582,2.95,41.26,Urban,East,20.9517,85.0985
+Odisha,30,June,2019,Sunday,2356290,2.63,38.39,Urban,East,20.9517,85.0985
+Odisha,31,July,2019,Wednesday,2542237,1.78,40.99,Urban,East,20.9517,85.0985
+Odisha,31,August,2019,Saturday,2456983,3.5,40.25,Urban,East,20.9517,85.0985
+Odisha,30,September,2019,Monday,2570663,3.78,42.15,Urban,East,20.9517,85.0985
+Odisha,31,October,2019,Thursday,2456855,4.5,40.51,Urban,East,20.9517,85.0985
+Odisha,30,November,2019,Saturday,2594469,2.23,41.71,Urban,East,20.9517,85.0985
+Odisha,31,December,2019,Tuesday,2369048,3.36,38.46,Urban,East,20.9517,85.0985
+Odisha,31,January,2020,Friday,2561320,2.28,41.05,Urban,East,20.9517,85.0985
+Odisha,29,February,2020,Saturday,2438080,2.19,38.97,Urban,East,20.9517,85.0985
+Odisha,31,March,2020,Tuesday,2457952,3.96,39.93,Urban,East,20.9517,85.0985
+Odisha,30,April,2020,Thursday,1303244,20.5,25.53,Urban,East,20.9517,85.0985
+Odisha,31,May,2020,Sunday,1975481,10.0,34.12,Urban,East,20.9517,85.0985
+Odisha,30,June,2020,Tuesday,2221069,2.18,35.24,Urban,East,20.9517,85.0985
+Puducherry,31,May,2019,Friday,283905,1.25,35.71,Urban,South,11.9416,79.8083
+Puducherry,30,June,2019,Sunday,304369,0.0,37.73,Urban,South,11.9416,79.8083
+Puducherry,31,July,2019,Wednesday,281117,0.0,34.77,Urban,South,11.9416,79.8083
+Puducherry,31,August,2019,Saturday,312882,8.95,42.41,Urban,South,11.9416,79.8083
+Puducherry,30,September,2019,Monday,286573,1.22,35.73,Urban,South,11.9416,79.8083
+Puducherry,31,October,2019,Thursday,312548,1.17,38.86,Urban,South,11.9416,79.8083
+Puducherry,30,November,2019,Saturday,275003,1.37,34.19,Urban,South,11.9416,79.8083
+Puducherry,31,December,2019,Tuesday,313135,5.21,40.42,Urban,South,11.9416,79.8083
+Puducherry,31,January,2020,Friday,281698,0.57,34.59,Urban,South,11.9416,79.8083
+Puducherry,29,February,2020,Saturday,310342,1.78,38.5,Urban,South,11.9416,79.8083
+Puducherry,31,March,2020,Tuesday,278851,0.62,34.12,Urban,South,11.9416,79.8083
+Puducherry,30,April,2020,Thursday,68122,76.74,35.54,Urban,South,11.9416,79.8083
+Puducherry,31,May,2020,Sunday,64538,75.0,31.25,Urban,South,11.9416,79.8083
+Puducherry,30,June,2020,Tuesday,234926,4.55,29.73,Urban,South,11.9416,79.8083
+Punjab,31,May,2019,Friday,3289918,13.49,40.03,Urban,North,31.1471,75.3412
+Punjab,30,June,2019,Sunday,3307798,13.17,40.02,Urban,North,31.1471,75.3412
+Punjab,31,July,2019,Wednesday,3592442,11.61,42.62,Urban,North,31.1471,75.3412
+Punjab,31,August,2019,Saturday,3499863,11.99,41.61,Urban,North,31.1471,75.3412
+Punjab,30,September,2019,Monday,3227178,15.69,39.97,Urban,North,31.1471,75.3412
+Punjab,31,October,2019,Thursday,3070438,13.75,37.1,Urban,North,31.1471,75.3412
+Punjab,30,November,2019,Saturday,3602243,10.39,41.82,Urban,North,31.1471,75.3412
+Punjab,31,December,2019,Tuesday,3575778,11.97,42.17,Urban,North,31.1471,75.3412
+Punjab,31,January,2020,Friday,3252622,13.68,39.04,Urban,North,31.1471,75.3412
+Punjab,29,February,2020,Saturday,3219227,11.99,37.82,Urban,North,31.1471,75.3412
+Punjab,31,March,2020,Tuesday,3601793,9.97,41.29,Urban,North,31.1471,75.3412
+Punjab,30,April,2020,Thursday,2298975,1.13,23.95,Urban,North,31.1471,75.3412
+Punjab,31,May,2020,Sunday,2682658,20.54,34.71,Urban,North,31.1471,75.3412
+Punjab,30,June,2020,Tuesday,3047750,10.55,34.96,Urban,North,31.1471,75.3412
+Rajasthan,31,May,2019,Friday,5108436,13.62,39.44,Urban,North,27.0238,74.2179
+Rajasthan,30,June,2019,Sunday,5241174,14.36,40.73,Urban,North,27.0238,74.2179
+Rajasthan,31,July,2019,Wednesday,5372470,11.67,40.38,Urban,North,27.0238,74.2179
+Rajasthan,31,August,2019,Saturday,5195170,14.71,40.34,Urban,North,27.0238,74.2179
+Rajasthan,30,September,2019,Monday,5176819,12.63,39.15,Urban,North,27.0238,74.2179
+Rajasthan,31,October,2019,Thursday,5384335,13.02,40.8,Urban,North,27.0238,74.2179
+Rajasthan,30,November,2019,Saturday,5306715,14.3,40.73,Urban,North,27.0238,74.2179
+Rajasthan,31,December,2019,Tuesday,5109481,18.04,40.9,Urban,North,27.0238,74.2179
+Rajasthan,31,January,2020,Friday,5157363,18.82,41.59,Urban,North,27.0238,74.2179
+Rajasthan,29,February,2020,Saturday,5288343,17.02,41.62,Urban,North,27.0238,74.2179
+Rajasthan,31,March,2020,Tuesday,4964911,18.54,39.71,Urban,North,27.0238,74.2179
+Rajasthan,30,April,2020,Thursday,2932923,35.53,29.57,Urban,North,27.0238,74.2179
+Rajasthan,31,May,2020,Sunday,4225486,25.35,36.71,Urban,North,27.0238,74.2179
+Rajasthan,30,June,2020,Tuesday,5275784,13.04,39.26,Urban,North,27.0238,74.2179
+Sikkim,31,May,2019,Friday,89587,8.2,48.61,Urban,Northeast,27.533,88.5122
+Sikkim,30,June,2019,Sunday,89702,7.76,48.13,Urban,Northeast,27.533,88.5122
+Sikkim,31,July,2019,Wednesday,108334,2.56,54.67,Urban,Northeast,27.533,88.5122
+Sikkim,31,August,2019,Saturday,90850,4.82,46.63,Urban,Northeast,27.533,88.5122
+Sikkim,30,September,2019,Monday,89450,4.81,45.61,Urban,Northeast,27.533,88.5122
+Sikkim,31,October,2019,Thursday,87974,9.68,46.97,Urban,Northeast,27.533,88.5122
+Sikkim,30,November,2019,Saturday,107751,4.04,53.8,Urban,Northeast,27.533,88.5122
+Sikkim,31,December,2019,Tuesday,88035,7.37,45.24,Urban,Northeast,27.533,88.5122
+Sikkim,31,March,2020,Tuesday,86186,20.45,50.57,Urban,Northeast,27.533,88.5122
+Sikkim,30,April,2020,Thursday,81905,5.77,40.31,Urban,Northeast,27.533,88.5122
+Sikkim,31,May,2020,Sunday,75456,19.75,43.32,Urban,Northeast,27.533,88.5122
+Sikkim,30,June,2020,Tuesday,76269,2.63,35.85,Urban,Northeast,27.533,88.5122
+Tamil Nadu,31,May,2019,Friday,11798080,0.89,37.31,Urban,South,11.1271,78.6569
+Tamil Nadu,30,June,2019,Sunday,12318745,1.56,39.16,Urban,South,11.1271,78.6569
+Tamil Nadu,31,July,2019,Wednesday,12054414,3.18,38.89,Urban,South,11.1271,78.6569
+Tamil Nadu,31,August,2019,Saturday,11933093,9.53,41.13,Urban,South,11.1271,78.6569
+Tamil Nadu,30,September,2019,Monday,11902824,1.86,37.76,Urban,South,11.1271,78.6569
+Tamil Nadu,31,October,2019,Thursday,12223948,1.13,38.42,Urban,South,11.1271,78.6569
+Tamil Nadu,30,November,2019,Saturday,11729952,2.65,37.38,Urban,South,11.1271,78.6569
+Tamil Nadu,31,December,2019,Tuesday,12260389,8.05,41.29,Urban,South,11.1271,78.6569
+Tamil Nadu,31,January,2020,Friday,11926995,2.05,37.64,Urban,South,11.1271,78.6569
+Tamil Nadu,29,February,2020,Saturday,11742101,3.31,37.48,Urban,South,11.1271,78.6569
+Tamil Nadu,31,March,2020,Tuesday,10982178,6.46,36.17,Urban,South,11.1271,78.6569
+Tamil Nadu,30,April,2020,Thursday,4632967,45.55,26.17,Urban,South,11.1271,78.6569
+Tamil Nadu,31,May,2020,Sunday,5733921,25.95,23.77,Urban,South,11.1271,78.6569
+Tamil Nadu,30,June,2020,Tuesday,7741005,24.93,31.6,Urban,South,11.1271,78.6569
+Telangana,31,May,2019,Friday,5560649,1.52,44.59,Urban,South,18.1124,79.0193
+Telangana,30,June,2019,Sunday,5683349,1.43,45.43,Urban,South,18.1124,79.0193
+Telangana,31,July,2019,Wednesday,5432503,3.73,44.36,Urban,South,18.1124,79.0193
+Telangana,31,August,2019,Saturday,5544693,4.19,45.39,Urban,South,18.1124,79.0193
+Telangana,30,September,2019,Monday,5668785,6.19,47.28,Urban,South,18.1124,79.0193
+Telangana,31,October,2019,Thursday,5318341,6.74,44.51,Urban,South,18.1124,79.0193
+Telangana,30,November,2019,Saturday,5338119,5.23,43.87,Urban,South,18.1124,79.0193
+Telangana,31,December,2019,Tuesday,5317782,4.22,43.13,Urban,South,18.1124,79.0193
+Telangana,31,January,2020,Friday,5543380,6.49,45.95,Urban,South,18.1124,79.0193
+Telangana,29,February,2020,Saturday,5521496,6.74,45.78,Urban,South,18.1124,79.0193
+Telangana,31,March,2020,Tuesday,5313236,6.1,43.65,Urban,South,18.1124,79.0193
+Telangana,30,April,2020,Thursday,3378431,10.5,29.05,Urban,South,18.1124,79.0193
+Telangana,31,May,2020,Sunday,3108830,36.57,37.63,Urban,South,18.1124,79.0193
+Telangana,30,June,2020,Tuesday,4577995,6.92,37.68,Urban,South,18.1124,79.0193
+Tripura,31,May,2019,Friday,423127,34.69,69.5,Urban,Northeast,23.9408,91.9882
+Tripura,30,June,2019,Sunday,408738,25.59,58.8,Urban,Northeast,23.9408,91.9882
+Tripura,31,July,2019,Wednesday,410583,25.81,59.1,Urban,Northeast,23.9408,91.9882
+Tripura,31,August,2019,Saturday,368977,33.45,59.07,Urban,Northeast,23.9408,91.9882
+Tripura,30,September,2019,Monday,418043,33.57,66.9,Urban,Northeast,23.9408,91.9882
+Tripura,31,October,2019,Thursday,414808,26.67,60.0,Urban,Northeast,23.9408,91.9882
+Tripura,30,November,2019,Saturday,427700,27.15,62.14,Urban,Northeast,23.9408,91.9882
+Tripura,31,December,2019,Tuesday,399427,33.48,63.41,Urban,Northeast,23.9408,91.9882
+Tripura,31,January,2020,Friday,450155,34.37,72.26,Urban,Northeast,23.9408,91.9882
+Tripura,29,February,2020,Saturday,415339,33.88,66.04,Urban,Northeast,23.9408,91.9882
+Tripura,31,March,2020,Tuesday,450271,25.69,63.56,Urban,Northeast,23.9408,91.9882
+Tripura,30,April,2020,Thursday,296431,34.88,47.65,Urban,Northeast,23.9408,91.9882
+Tripura,31,May,2020,Sunday,384999,16.78,48.31,Urban,Northeast,23.9408,91.9882
+Tripura,30,June,2020,Tuesday,391015,27.47,56.17,Urban,Northeast,23.9408,91.9882
+Uttar Pradesh,31,May,2019,Friday,13391244,14.4,40.43,Urban,North,26.8467,80.9462
+Uttar Pradesh,30,June,2019,Sunday,13624452,11.62,39.75,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,July,2019,Wednesday,13862431,11.8,40.43,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,August,2019,Saturday,13580241,14.73,40.87,Urban,North,26.8467,80.9462
+Uttar Pradesh,30,September,2019,Monday,13522970,13.58,40.07,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,October,2019,Thursday,13938303,10.35,39.71,Urban,North,26.8467,80.9462
+Uttar Pradesh,30,November,2019,Saturday,14128888,11.31,40.6,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,December,2019,Tuesday,13857200,12.37,40.21,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,January,2020,Friday,13656250,12.34,39.52,Urban,North,26.8467,80.9462
+Uttar Pradesh,29,February,2020,Saturday,13803099,11.65,39.54,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,March,2020,Tuesday,13889632,12.32,40.0,Urban,North,26.8467,80.9462
+Uttar Pradesh,30,April,2020,Thursday,10944379,26.94,37.74,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,May,2020,Sunday,11111486,32.06,41.1,Urban,North,26.8467,80.9462
+Uttar Pradesh,30,June,2020,Tuesday,13208724,13.05,38.09,Urban,North,26.8467,80.9462
+Uttarakhand,31,May,2019,Friday,676797,9.17,26.33,Urban,North,30.0668,79.0193
+Uttarakhand,30,June,2019,Sunday,906889,4.69,33.54,Urban,North,30.0668,79.0193
+Uttarakhand,31,July,2019,Wednesday,859900,6.94,32.48,Urban,North,30.0668,79.0193
+Uttarakhand,31,August,2019,Saturday,823967,7.43,31.21,Urban,North,30.0668,79.0193
+Uttarakhand,30,September,2019,Monday,711150,9.62,27.51,Urban,North,30.0668,79.0193
+Uttarakhand,31,October,2019,Thursday,925174,4.72,33.87,Urban,North,30.0668,79.0193
+Uttarakhand,30,November,2019,Saturday,904903,6.34,33.61,Urban,North,30.0668,79.0193
+Uttarakhand,31,December,2019,Tuesday,844779,7.39,31.65,Urban,North,30.0668,79.0193
+Uttarakhand,31,January,2020,Friday,725253,8.92,27.55,Urban,North,30.0668,79.0193
+Uttarakhand,29,February,2020,Saturday,963408,5.28,35.11,Urban,North,30.0668,79.0193
+Uttarakhand,31,March,2020,Tuesday,889245,8.15,33.33,Urban,North,30.0668,79.0193
+Uttarakhand,30,April,2020,Thursday,748041,13.18,29.59,Urban,North,30.0668,79.0193
+Uttarakhand,31,May,2020,Sunday,778590,17.36,32.27,Urban,North,30.0668,79.0193
+Uttarakhand,30,June,2020,Tuesday,989470,5.08,35.61,Urban,North,30.0668,79.0193
+West Bengal,31,May,2019,Friday,11306177,7.25,46.37,Urban,East,22.9868,87.855
+West Bengal,30,June,2019,Sunday,10611498,7.38,43.51,Urban,East,22.9868,87.855
+West Bengal,31,July,2019,Wednesday,10779829,7.91,44.38,Urban,East,22.9868,87.855
+West Bengal,31,August,2019,Saturday,11456493,7.27,46.77,Urban,East,22.9868,87.855
+West Bengal,30,September,2019,Monday,11158649,7.79,45.74,Urban,East,22.9868,87.855
+West Bengal,31,October,2019,Thursday,10563686,7.83,43.25,Urban,East,22.9868,87.855
+West Bengal,30,November,2019,Saturday,10768462,6.61,43.44,Urban,East,22.9868,87.855
+West Bengal,31,December,2019,Tuesday,11335696,7.24,45.97,Urban,East,22.9868,87.855
+West Bengal,31,January,2020,Friday,11208617,7.27,45.39,Urban,East,22.9868,87.855
+West Bengal,29,February,2020,Saturday,10871168,7.55,44.09,Urban,East,22.9868,87.855
+West Bengal,31,March,2020,Tuesday,10806105,6.67,43.34,Urban,East,22.9868,87.855
+West Bengal,30,April,2020,Thursday,9299466,15.63,41.2,Urban,East,22.9868,87.855
+West Bengal,31,May,2020,Sunday,9240903,15.22,40.67,Urban,East,22.9868,87.855
+West Bengal,30,June,2020,Tuesday,9088931,9.86,37.57,Urban,East,22.9868,87.855
+Andhra Pradesh,31,January,2020,Friday,16635535,5.48,41.02,Urban,South,15.9129,79.74
+Andhra Pradesh,29,February,2020,Saturday,16545652,5.83,40.9,Urban,South,15.9129,79.74
+Andhra Pradesh,31,March,2020,Tuesday,15881197,5.79,39.18,Urban,South,15.9129,79.74
+Andhra Pradesh,30,April,2020,Thursday,11336911,20.51,33.1,Urban,South,15.9129,79.74
+Andhra Pradesh,31,May,2020,Sunday,12988845,17.43,36.46,Urban,South,15.9129,79.74
+Andhra Pradesh,30,June,2020,Tuesday,19805400,3.31,47.41,Urban,South,15.9129,79.74
+Andhra Pradesh,31,July,2020,Friday,15431615,8.34,38.91,Urban,South,15.9129,79.74
+Andhra Pradesh,31,August,2020,Monday,15251776,6.96,37.83,Urban,South,15.9129,79.74
+Andhra Pradesh,30,September,2020,Wednesday,15220312,6.4,37.47,Urban,South,15.9129,79.74
+Andhra Pradesh,31,October,2020,Saturday,15157557,6.59,37.34,Urban,South,15.9129,79.74
+Assam,31,January,2020,Friday,13051904,4.66,52.98,Urban,Northeast,26.2006,92.9376
+Assam,29,February,2020,Saturday,10088268,4.41,40.77,Urban,Northeast,26.2006,92.9376
+Assam,31,March,2020,Tuesday,11542888,4.77,46.73,Urban,Northeast,26.2006,92.9376
+Assam,30,April,2020,Thursday,6830817,11.06,29.55,Urban,Northeast,26.2006,92.9376
+Assam,31,May,2020,Sunday,11367897,9.55,48.26,Urban,Northeast,26.2006,92.9376
+Assam,30,June,2020,Tuesday,9095944,0.6,35.07,Urban,Northeast,26.2006,92.9376
+Assam,31,July,2020,Friday,10286757,3.77,40.88,Urban,Northeast,26.2006,92.9376
+Assam,31,August,2020,Monday,9781310,5.53,39.52,Urban,Northeast,26.2006,92.9376
+Assam,30,September,2020,Wednesday,14107641,1.19,54.38,Urban,Northeast,26.2006,92.9376
+Assam,31,October,2020,Saturday,11949329,3.02,46.84,Urban,Northeast,26.2006,92.9376
+Bihar,31,January,2020,Friday,26397671,10.61,37.72,Urban,East,25.0961,85.3131
+Bihar,29,February,2020,Saturday,26281655,10.29,37.35,Urban,East,25.0961,85.3131
+Bihar,31,March,2020,Tuesday,25717519,15.43,38.69,Urban,East,25.0961,85.3131
+Bihar,30,April,2020,Thursday,16046236,46.64,38.17,Urban,East,25.0961,85.3131
+Bihar,31,May,2020,Sunday,16280203,45.96,38.16,Urban,East,25.0961,85.3131
+Bihar,30,June,2020,Tuesday,23963933,17.82,36.86,Urban,East,25.0961,85.3131
+Bihar,31,July,2020,Friday,24989370,12.79,36.14,Urban,East,25.0961,85.3131
+Bihar,31,August,2020,Monday,23795534,13.44,34.59,Urban,East,25.0961,85.3131
+Bihar,30,September,2020,Wednesday,26902907,11.91,38.35,Urban,East,25.0961,85.3131
+Bihar,31,October,2020,Saturday,25693252,9.82,35.7,Urban,East,25.0961,85.3131
+Chhattisgarh,31,January,2020,Friday,8552172,9.65,43.08,Urban,West,21.2787,81.8661
+Chhattisgarh,29,February,2020,Saturday,9195114,8.38,45.58,Urban,West,21.2787,81.8661
+Chhattisgarh,31,March,2020,Tuesday,9302317,7.54,45.59,Urban,West,21.2787,81.8661
+Chhattisgarh,30,April,2020,Thursday,7600448,3.41,35.58,Urban,West,21.2787,81.8661
+Chhattisgarh,31,May,2020,Sunday,6991217,10.5,35.23,Urban,West,21.2787,81.8661
+Chhattisgarh,30,June,2020,Tuesday,7332807,14.23,38.48,Urban,West,21.2787,81.8661
+Chhattisgarh,31,July,2020,Friday,8620294,10.27,43.14,Urban,West,21.2787,81.8661
+Chhattisgarh,31,August,2020,Monday,9050422,5.63,42.97,Urban,West,21.2787,81.8661
+Chhattisgarh,30,September,2020,Wednesday,9021854,1.96,41.14,Urban,West,21.2787,81.8661
+Chhattisgarh,31,October,2020,Saturday,8546847,6.62,40.82,Urban,West,21.2787,81.8661
+Delhi,31,January,2020,Friday,5805284,22.23,47.79,Urban,North,28.7041,77.1025
+Delhi,29,February,2020,Saturday,5856307,14.84,43.92,Urban,North,28.7041,77.1025
+Delhi,31,March,2020,Tuesday,5553805,17.04,42.65,Urban,North,28.7041,77.1025
+Delhi,30,April,2020,Thursday,3119274,16.68,23.8,Urban,North,28.7041,77.1025
+Delhi,31,May,2020,Sunday,2632404,42.27,28.91,Urban,North,28.7041,77.1025
+Delhi,30,June,2020,Tuesday,4418914,18.19,34.17,Urban,North,28.7041,77.1025
+Delhi,31,July,2020,Friday,4291053,20.3,33.97,Urban,North,28.7041,77.1025
+Delhi,31,August,2020,Monday,4850107,13.79,35.41,Urban,North,28.7041,77.1025
+Delhi,30,September,2020,Wednesday,4958373,12.53,35.59,Urban,North,28.7041,77.1025
+Delhi,31,October,2020,Saturday,4842698,6.27,32.36,Urban,North,28.7041,77.1025
+Goa,31,January,2020,Friday,416750,8.89,35.73,Urban,West,15.2993,74.124
+Goa,29,February,2020,Saturday,478068,2.81,38.38,Urban,West,15.2993,74.124
+Goa,31,March,2020,Tuesday,411761,5.25,33.88,Urban,West,15.2993,74.124
+Goa,30,April,2020,Thursday,500614,13.31,44.97,Urban,West,15.2993,74.124
+Goa,31,May,2020,Sunday,378244,21.25,37.36,Urban,West,15.2993,74.124
+Goa,30,June,2020,Tuesday,489111,9.96,42.21,Urban,West,15.2993,74.124
+Goa,31,July,2020,Friday,458876,17.07,42.94,Urban,West,15.2993,74.124
+Goa,31,August,2020,Monday,473016,16.21,43.76,Urban,West,15.2993,74.124
+Goa,30,September,2020,Wednesday,425004,15.38,38.89,Urban,West,15.2993,74.124
+Goa,31,October,2020,Saturday,392304,11.54,34.3,Urban,West,15.2993,74.124
+Gujarat,31,January,2020,Friday,24126346,5.54,48.49,Urban,West,22.2587,71.1924
+Gujarat,29,February,2020,Saturday,24757795,6.38,50.11,Urban,West,22.2587,71.1924
+Gujarat,31,March,2020,Tuesday,23566641,6.66,47.75,Urban,West,22.2587,71.1924
+Gujarat,30,April,2020,Thursday,15288878,18.71,35.5,Urban,West,22.2587,71.1924
+Gujarat,31,May,2020,Sunday,17836936,12.11,38.23,Urban,West,22.2587,71.1924
+Gujarat,30,June,2020,Tuesday,23657055,3.2,45.96,Urban,West,22.2587,71.1924
+Gujarat,31,July,2020,Friday,24276120,1.84,46.41,Urban,West,22.2587,71.1924
+Gujarat,31,August,2020,Monday,22817232,1.87,43.55,Urban,West,22.2587,71.1924
+Gujarat,30,September,2020,Wednesday,25010199,3.42,48.41,Urban,West,22.2587,71.1924
+Gujarat,31,October,2020,Saturday,25970259,4.03,50.49,Urban,West,22.2587,71.1924
+Haryana,31,January,2020,Friday,7693231,20.34,43.36,Urban,North,29.0588,76.0856
+Haryana,29,February,2020,Saturday,7322942,25.77,44.21,Urban,North,29.0588,76.0856
+Haryana,31,March,2020,Tuesday,6641555,25.05,39.63,Urban,North,29.0588,76.0856
+Haryana,30,April,2020,Thursday,5647630,43.22,44.38,Urban,North,29.0588,76.0856
+Haryana,31,May,2020,Sunday,6437868,29.02,40.39,Urban,North,29.0588,76.0856
+Haryana,30,June,2020,Tuesday,6951934,26.7,42.14,Urban,North,29.0588,76.0856
+Haryana,31,July,2020,Friday,6800652,24.18,39.77,Urban,North,29.0588,76.0856
+Haryana,31,August,2020,Monday,7113788,33.5,47.32,Urban,North,29.0588,76.0856
+Haryana,30,September,2020,Wednesday,7132439,19.68,39.2,Urban,North,29.0588,76.0856
+Haryana,31,October,2020,Saturday,6698551,27.31,40.6,Urban,North,29.0588,76.0856
+Himachal Pradesh,31,January,2020,Friday,2287632,16.83,45.5,Urban,North,31.1048,77.1734
+Himachal Pradesh,29,February,2020,Saturday,2180268,16.84,43.3,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,March,2020,Tuesday,2021858,18.76,41.04,Urban,North,31.1048,77.1734
+Himachal Pradesh,30,April,2020,Thursday,1131128,2.2,19.04,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,May,2020,Sunday,1897639,26.95,42.7,Urban,North,31.1048,77.1734
+Himachal Pradesh,30,June,2020,Tuesday,2199683,13.47,41.72,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,July,2020,Friday,2229456,24.31,48.25,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,August,2020,Monday,2029740,15.79,39.42,Urban,North,31.1048,77.1734
+Himachal Pradesh,30,September,2020,Wednesday,2237480,12.04,41.54,Urban,North,31.1048,77.1734
+Himachal Pradesh,31,October,2020,Saturday,2123965,13.46,40.01,Urban,North,31.1048,77.1734
+Jammu & Kashmir,31,January,2020,Friday,3453025,21.08,42.2,Urban,North,33.7782,76.5762
+Jammu & Kashmir,29,February,2020,Saturday,3223513,20.78,39.17,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,March,2020,Tuesday,3359107,15.5,38.18,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,May,2020,Sunday,3246493,18.74,38.21,Urban,North,33.7782,76.5762
+Jammu & Kashmir,30,June,2020,Tuesday,3202336,17.92,37.24,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,July,2020,Friday,3558889,10.88,38.03,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,August,2020,Monday,3429950,11.09,36.66,Urban,North,33.7782,76.5762
+Jammu & Kashmir,30,September,2020,Wednesday,3210281,16.17,36.31,Urban,North,33.7782,76.5762
+Jammu & Kashmir,31,October,2020,Saturday,3106691,16.14,35.05,Urban,North,33.7782,76.5762
+Jharkhand,31,January,2020,Friday,10198029,10.61,42.92,Urban,East,23.6102,85.2799
+Jharkhand,29,February,2020,Saturday,10425425,11.85,44.4,Urban,East,23.6102,85.2799
+Jharkhand,31,March,2020,Tuesday,9638115,8.23,39.34,Urban,East,23.6102,85.2799
+Jharkhand,30,April,2020,Thursday,5335262,47.09,37.69,Urban,East,23.6102,85.2799
+Jharkhand,31,May,2020,Sunday,4145385,59.23,37.92,Urban,East,23.6102,85.2799
+Jharkhand,30,June,2020,Tuesday,8622722,20.95,40.59,Urban,East,23.6102,85.2799
+Jharkhand,31,July,2020,Friday,9521900,7.63,38.27,Urban,East,23.6102,85.2799
+Jharkhand,31,August,2020,Monday,9331640,9.76,38.31,Urban,East,23.6102,85.2799
+Jharkhand,30,September,2020,Wednesday,10185670,8.24,41.04,Urban,East,23.6102,85.2799
+Jharkhand,31,October,2020,Saturday,10302276,11.8,43.08,Urban,East,23.6102,85.2799
+Karnataka,31,January,2020,Friday,22688028,2.86,42.18,Urban,South,15.3173,75.7139
+Karnataka,29,February,2020,Saturday,21677719,3.61,40.54,Urban,South,15.3173,75.7139
+Karnataka,31,March,2020,Tuesday,22079653,3.46,41.14,Urban,South,15.3173,75.7139
+Karnataka,30,April,2020,Thursday,16718395,29.84,42.78,Urban,South,15.3173,75.7139
+Karnataka,31,May,2020,Sunday,19397853,19.97,43.43,Urban,South,15.3173,75.7139
+Karnataka,30,June,2020,Tuesday,24215057,8.44,47.29,Urban,South,15.3173,75.7139
+Karnataka,31,July,2020,Friday,22885616,4.01,42.55,Urban,South,15.3173,75.7139
+Karnataka,31,August,2020,Monday,24094289,0.5,43.13,Urban,South,15.3173,75.7139
+Karnataka,30,September,2020,Wednesday,20127176,2.41,36.66,Urban,South,15.3173,75.7139
+Karnataka,31,October,2020,Saturday,22356390,1.58,40.3,Urban,South,15.3173,75.7139
+Kerala,31,January,2020,Friday,9904534,5.31,37.12,Urban,South,10.8505,76.2711
+Kerala,29,February,2020,Saturday,9828023,7.6,37.71,Urban,South,10.8505,76.2711
+Kerala,31,March,2020,Tuesday,8221728,8.99,32.0,Urban,South,10.8505,76.2711
+Kerala,30,April,2020,Thursday,3933276,16.99,16.77,Urban,South,10.8505,76.2711
+Kerala,31,May,2020,Sunday,7921962,17.88,34.11,Urban,South,10.8505,76.2711
+Kerala,30,June,2020,Tuesday,9228268,9.71,36.11,Urban,South,10.8505,76.2711
+Kerala,31,July,2020,Friday,9504420,7.09,36.1,Urban,South,10.8505,76.2711
+Kerala,31,August,2020,Monday,9031944,10.98,35.78,Urban,South,10.8505,76.2711
+Kerala,30,September,2020,Wednesday,9240913,5.91,34.6,Urban,South,10.8505,76.2711
+Kerala,31,October,2020,Saturday,9152881,3.88,33.52,Urban,South,10.8505,76.2711
+Madhya Pradesh,31,January,2020,Friday,23018632,4.11,39.42,Urban,West,22.9734,78.6569
+Madhya Pradesh,29,February,2020,Saturday,22711479,4.57,39.0,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,March,2020,Tuesday,22867164,2.22,38.24,Urban,West,22.9734,78.6569
+Madhya Pradesh,30,April,2020,Thursday,19041832,12.36,35.45,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,May,2020,Sunday,18443927,21.98,38.48,Urban,West,22.9734,78.6569
+Madhya Pradesh,30,June,2020,Tuesday,23054646,6.48,40.04,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,July,2020,Friday,23940158,5.08,40.88,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,August,2020,Monday,23619011,4.7,40.08,Urban,West,22.9734,78.6569
+Madhya Pradesh,30,September,2020,Wednesday,23341952,3.91,39.2,Urban,West,22.9734,78.6569
+Madhya Pradesh,31,October,2020,Saturday,23144552,3.13,38.47,Urban,West,22.9734,78.6569
+Maharashtra,31,January,2020,Friday,42596868,4.95,44.19,Urban,West,19.7515,75.7139
+Maharashtra,29,February,2020,Saturday,42416317,4.69,43.8,Urban,West,19.7515,75.7139
+Maharashtra,31,March,2020,Tuesday,40196806,5.79,41.91,Urban,West,19.7515,75.7139
+Maharashtra,30,April,2020,Thursday,27689253,20.9,34.32,Urban,West,19.7515,75.7139
+Maharashtra,31,May,2020,Sunday,32116847,15.46,37.17,Urban,West,19.7515,75.7139
+Maharashtra,30,June,2020,Tuesday,39708538,9.23,42.71,Urban,West,19.7515,75.7139
+Maharashtra,31,July,2020,Friday,40998545,3.89,41.57,Urban,West,19.7515,75.7139
+Maharashtra,31,August,2020,Monday,40963616,6.23,42.49,Urban,West,19.7515,75.7139
+Maharashtra,30,September,2020,Wednesday,42042911,4.55,42.75,Urban,West,19.7515,75.7139
+Maharashtra,31,October,2020,Saturday,43317881,4.1,43.75,Urban,West,19.7515,75.7139
+Meghalaya,31,January,2020,Friday,1491093,1.66,65.49,Urban,Northeast,25.467,91.3662
+Meghalaya,29,February,2020,Saturday,1346829,3.59,60.2,Urban,Northeast,25.467,91.3662
+Meghalaya,31,March,2020,Tuesday,1482351,1.58,64.74,Urban,Northeast,25.467,91.3662
+Meghalaya,30,April,2020,Thursday,965057,10.03,45.99,Urban,Northeast,25.467,91.3662
+Meghalaya,31,May,2020,Sunday,1215064,5.92,55.24,Urban,Northeast,25.467,91.3662
+Meghalaya,30,June,2020,Tuesday,1350794,1.15,58.31,Urban,Northeast,25.467,91.3662
+Meghalaya,31,July,2020,Friday,1448106,2.1,62.96,Urban,Northeast,25.467,91.3662
+Meghalaya,31,August,2020,Monday,1357643,3.74,59.88,Urban,Northeast,25.467,91.3662
+Meghalaya,30,September,2020,Wednesday,1459726,4.29,64.6,Urban,Northeast,25.467,91.3662
+Meghalaya,31,October,2020,Saturday,1381490,4.6,61.18,Urban,Northeast,25.467,91.3662
+Odisha,31,January,2020,Friday,13743448,1.9,39.44,Urban,East,20.9517,85.0985
+Odisha,29,February,2020,Saturday,14280735,3.12,41.44,Urban,East,20.9517,85.0985
+Odisha,31,March,2020,Tuesday,12272109,13.08,39.62,Urban,East,20.9517,85.0985
+Odisha,30,April,2020,Thursday,6865693,23.76,25.23,Urban,East,20.9517,85.0985
+Odisha,31,May,2020,Sunday,11730937,11.41,37.04,Urban,East,20.9517,85.0985
+Odisha,30,June,2020,Tuesday,12903993,3.77,37.45,Urban,East,20.9517,85.0985
+Odisha,31,July,2020,Friday,13614400,1.88,38.69,Urban,East,20.9517,85.0985
+Odisha,31,August,2020,Monday,14154039,1.42,39.96,Urban,East,20.9517,85.0985
+Odisha,30,September,2020,Wednesday,13608422,2.1,38.63,Urban,East,20.9517,85.0985
+Odisha,31,October,2020,Saturday,14094553,2.18,39.98,Urban,East,20.9517,85.0985
+Puducherry,31,January,2020,Friday,457950,0.58,37.46,Urban,South,11.9416,79.8083
+Puducherry,29,February,2020,Saturday,493961,1.76,40.8,Urban,South,11.9416,79.8083
+Puducherry,31,March,2020,Tuesday,421028,1.2,34.49,Urban,South,11.9416,79.8083
+Puducherry,30,April,2020,Thursday,117542,75.85,39.3,Urban,South,11.9416,79.8083
+Puducherry,31,May,2020,Sunday,172308,58.19,33.19,Urban,South,11.9416,79.8083
+Puducherry,30,June,2020,Tuesday,367135,4.24,30.8,Urban,South,11.9416,79.8083
+Puducherry,31,July,2020,Friday,386563,15.47,36.64,Urban,South,11.9416,79.8083
+Puducherry,31,August,2020,Monday,396006,5.05,33.34,Urban,South,11.9416,79.8083
+Puducherry,30,September,2020,Wednesday,411717,10.9,36.84,Urban,South,11.9416,79.8083
+Puducherry,31,October,2020,Saturday,428419,6.18,36.32,Urban,South,11.9416,79.8083
+Punjab,31,January,2020,Friday,9442093,11.11,42.82,Urban,North,31.1471,75.3412
+Punjab,29,February,2020,Saturday,9229047,10.97,41.72,Urban,North,31.1471,75.3412
+Punjab,31,March,2020,Tuesday,9975485,10.32,44.69,Urban,North,31.1471,75.3412
+Punjab,30,April,2020,Thursday,7020565,2.86,28.99,Urban,North,31.1471,75.3412
+Punjab,31,May,2020,Sunday,6872938,28.33,38.39,Urban,North,31.1471,75.3412
+Punjab,30,June,2020,Tuesday,8390766,16.55,40.18,Urban,North,31.1471,75.3412
+Punjab,31,July,2020,Friday,9732417,9.19,42.76,Urban,North,31.1471,75.3412
+Punjab,31,August,2020,Monday,9386169,10.99,41.99,Urban,North,31.1471,75.3412
+Punjab,30,September,2020,Wednesday,8980432,9.61,39.5,Urban,North,31.1471,75.3412
+Punjab,31,October,2020,Saturday,8800430,9.88,38.75,Urban,North,31.1471,75.3412
+Rajasthan,31,January,2020,Friday,20641716,10.97,40.51,Urban,North,27.0238,74.2179
+Rajasthan,29,February,2020,Saturday,20328915,15.16,41.77,Urban,North,27.0238,74.2179
+Rajasthan,31,March,2020,Tuesday,20024680,11.9,39.54,Urban,North,27.0238,74.2179
+Rajasthan,30,April,2020,Thursday,15984142,17.7,33.71,Urban,North,27.0238,74.2179
+Rajasthan,31,May,2020,Sunday,19826602,15.74,40.74,Urban,North,27.0238,74.2179
+Rajasthan,30,June,2020,Tuesday,20506612,14.39,41.38,Urban,North,27.0238,74.2179
+Rajasthan,31,July,2020,Friday,19932393,15.81,40.8,Urban,North,27.0238,74.2179
+Rajasthan,31,August,2020,Monday,20014060,17.51,41.71,Urban,North,27.0238,74.2179
+Rajasthan,30,September,2020,Wednesday,20149594,15.35,40.83,Urban,North,27.0238,74.2179
+Rajasthan,31,October,2020,Saturday,19908808,24.15,44.92,Urban,North,27.0238,74.2179
+Sikkim,31,March,2020,Tuesday,262895,23.57,60.59,Urban,Northeast,27.533,88.5122
+Sikkim,30,April,2020,Thursday,215303,2.28,38.7,Urban,Northeast,27.533,88.5122
+Sikkim,31,May,2020,Sunday,193427,24.51,44.88,Urban,Northeast,27.533,88.5122
+Sikkim,30,June,2020,Tuesday,221058,4.46,40.4,Urban,Northeast,27.533,88.5122
+Sikkim,31,July,2020,Friday,265175,4.45,48.32,Urban,Northeast,27.533,88.5122
+Sikkim,31,August,2020,Monday,244462,12.49,48.49,Urban,Northeast,27.533,88.5122
+Sikkim,30,September,2020,Wednesday,231798,5.7,42.54,Urban,Northeast,27.533,88.5122
+Sikkim,31,October,2020,Saturday,242068,0.88,42.13,Urban,Northeast,27.533,88.5122
+Tamil Nadu,31,January,2020,Friday,26881641,1.57,41.96,Urban,South,11.1271,78.6569
+Tamil Nadu,29,February,2020,Saturday,27570589,2.09,43.2,Urban,South,11.1271,78.6569
+Tamil Nadu,31,March,2020,Tuesday,26830768,6.4,43.91,Urban,South,11.1271,78.6569
+Tamil Nadu,30,April,2020,Thursday,9719167,49.83,29.63,Urban,South,11.1271,78.6569
+Tamil Nadu,31,May,2020,Sunday,11483256,33.16,26.23,Urban,South,11.1271,78.6569
+Tamil Nadu,30,June,2020,Tuesday,19096847,12.2,33.16,Urban,South,11.1271,78.6569
+Tamil Nadu,31,July,2020,Friday,24572827,6.81,40.13,Urban,South,11.1271,78.6569
+Tamil Nadu,31,August,2020,Monday,27046415,2.65,42.22,Urban,South,11.1271,78.6569
+Tamil Nadu,30,September,2020,Wednesday,23025845,5.0,36.77,Urban,South,11.1271,78.6569
+Tamil Nadu,31,October,2020,Saturday,23651626,2.16,36.62,Urban,South,11.1271,78.6569
+Telangana,31,January,2020,Friday,17609295,5.49,59.25,Urban,South,18.1124,79.0193
+Telangana,29,February,2020,Saturday,16825970,8.29,58.24,Urban,South,18.1124,79.0193
+Telangana,31,March,2020,Tuesday,17341613,5.77,58.31,Urban,South,18.1124,79.0193
+Telangana,30,April,2020,Thursday,12172230,6.25,41.06,Urban,South,18.1124,79.0193
+Telangana,31,May,2020,Sunday,14977774,14.7,55.43,Urban,South,18.1124,79.0193
+Telangana,30,June,2020,Tuesday,15108910,10.55,53.22,Urban,South,18.1124,79.0193
+Telangana,31,July,2020,Friday,15679417,5.36,52.1,Urban,South,18.1124,79.0193
+Telangana,31,August,2020,Monday,18185429,5.79,60.59,Urban,South,18.1124,79.0193
+Telangana,30,September,2020,Wednesday,16961448,3.27,54.94,Urban,South,18.1124,79.0193
+Telangana,31,October,2020,Saturday,17578739,2.86,56.58,Urban,South,18.1124,79.0193
+Tripura,31,January,2020,Friday,1508130,32.67,69.69,Urban,Northeast,23.9408,91.9882
+Tripura,29,February,2020,Saturday,1584686,28.4,68.74,Urban,Northeast,23.9408,91.9882
+Tripura,31,March,2020,Tuesday,1511217,29.95,66.89,Urban,Northeast,23.9408,91.9882
+Tripura,30,April,2020,Thursday,971514,41.23,51.16,Urban,Northeast,23.9408,91.9882
+Tripura,31,May,2020,Sunday,1290986,21.51,50.81,Urban,Northeast,23.9408,91.9882
+Tripura,30,June,2020,Tuesday,1494140,21.71,58.85,Urban,Northeast,23.9408,91.9882
+Tripura,31,July,2020,Friday,1348849,18.24,50.78,Urban,Northeast,23.9408,91.9882
+Tripura,31,August,2020,Monday,1318621,27.92,56.21,Urban,Northeast,23.9408,91.9882
+Tripura,30,September,2020,Wednesday,1368244,17.35,50.77,Urban,Northeast,23.9408,91.9882
+Tripura,31,October,2020,Saturday,1576529,11.57,54.58,Urban,Northeast,23.9408,91.9882
+Uttar Pradesh,31,January,2020,Friday,59433759,7.58,39.63,Urban,North,26.8467,80.9462
+Uttar Pradesh,29,February,2020,Saturday,58060531,8.98,39.23,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,March,2020,Tuesday,56976338,10.11,38.89,Urban,North,26.8467,80.9462
+Uttar Pradesh,30,April,2020,Thursday,50915056,21.54,39.73,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,May,2020,Sunday,49801902,20.41,38.22,Urban,North,26.8467,80.9462
+Uttar Pradesh,30,June,2020,Tuesday,55380649,9.47,37.29,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,July,2020,Friday,56201654,5.56,36.19,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,August,2020,Monday,55831744,5.79,35.96,Urban,North,26.8467,80.9462
+Uttar Pradesh,30,September,2020,Wednesday,56106836,4.18,35.45,Urban,North,26.8467,80.9462
+Uttar Pradesh,31,October,2020,Saturday,56539521,3.75,35.49,Urban,North,26.8467,80.9462
+Uttarakhand,31,January,2020,Friday,2711639,5.49,32.99,Urban,North,30.0668,79.0193
+Uttarakhand,29,February,2020,Saturday,3020931,4.99,36.48,Urban,North,30.0668,79.0193
+Uttarakhand,31,March,2020,Tuesday,2539302,19.85,36.27,Urban,North,30.0668,79.0193
+Uttarakhand,30,April,2020,Thursday,2720115,6.48,33.23,Urban,North,30.0668,79.0193
+Uttarakhand,31,May,2020,Sunday,2694072,8.01,33.38,Urban,North,30.0668,79.0193
+Uttarakhand,30,June,2020,Tuesday,2656071,8.61,33.06,Urban,North,30.0668,79.0193
+Uttarakhand,31,July,2020,Friday,2938552,12.38,38.07,Urban,North,30.0668,79.0193
+Uttarakhand,31,August,2020,Monday,2717528,14.26,35.9,Urban,North,30.0668,79.0193
+Uttarakhand,30,September,2020,Wednesday,2695230,22.26,39.18,Urban,North,30.0668,79.0193
+Uttarakhand,31,October,2020,Saturday,2739309,9.23,34.03,Urban,North,30.0668,79.0193
+West Bengal,31,January,2020,Friday,35820789,6.94,47.35,Urban,East,22.9868,87.855
+West Bengal,29,February,2020,Saturday,36964178,4.92,47.74,Urban,East,22.9868,87.855
+West Bengal,31,March,2020,Tuesday,35903917,6.92,47.27,Urban,East,22.9868,87.855
+West Bengal,30,April,2020,Thursday,26938836,17.41,39.9,Urban,East,22.9868,87.855
+West Bengal,31,May,2020,Sunday,28356675,17.41,41.92,Urban,East,22.9868,87.855
+West Bengal,30,June,2020,Tuesday,30726310,7.29,40.39,Urban,East,22.9868,87.855
+West Bengal,31,July,2020,Friday,35372506,6.83,46.17,Urban,East,22.9868,87.855
+West Bengal,31,August,2020,Monday,33298644,14.87,47.48,Urban,East,22.9868,87.855
+West Bengal,30,September,2020,Wednesday,35707239,9.35,47.73,Urban,East,22.9868,87.855
+West Bengal,31,October,2020,Saturday,33962549,9.98,45.63,Urban,East,22.9868,87.855
